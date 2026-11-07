@@ -5,7 +5,7 @@
       "ordinal": 0,
       "scrollPosition": {
         "x": 0,
-        "y": 0
+        "y": 48
       },
       "nodes": [
         {
@@ -54,6 +54,19 @@
           },
           "nodeIndex": "fct_revenue_forecast",
           "nodeLineageTag": "fa2354d2-da30-480b-8ba8-bb1c83a6cd5a",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 818.79999542236328,
+            "y": 365
+          },
+          "nodeIndex": "dim_date",
+          "nodeLineageTag": "ef227ca9-bbba-4a0b-a0c0-929d1b567e06",
           "size": {
             "height": 200,
             "width": 234

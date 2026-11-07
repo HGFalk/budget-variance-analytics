@@ -8,11 +8,6 @@ table fct_revenue_forecast
 		summarizeBy: none
 		sourceColumn: month
 
-		variation Variation
-			isDefault
-			relationship: ee696b0c-2333-4a0a-ae0d-f5bc198a1d0c
-			defaultHierarchy: LocalDateTable_905e6fac-556a-48b4-9131-b85a2a98b5ea.'Date Hierarchy'
-
 		annotation SummarizationSetBy = Automatic
 
 		annotation UnderlyingDateTimeDataType = Date

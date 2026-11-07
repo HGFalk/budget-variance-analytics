@@ -8,11 +8,6 @@ table fct_margin_bridge
 		summarizeBy: none
 		sourceColumn: month
 
-		variation Variation
-			isDefault
-			relationship: f373b42f-a259-4103-94c9-20edd18c0eb9
-			defaultHierarchy: LocalDateTable_b6f1cae8-deca-459f-b708-1d0ced999b80.'Date Hierarchy'
-
 		annotation SummarizationSetBy = Automatic
 
 		annotation UnderlyingDateTimeDataType = Date

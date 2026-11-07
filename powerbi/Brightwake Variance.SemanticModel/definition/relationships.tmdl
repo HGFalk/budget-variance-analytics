@@ -1,20 +1,16 @@
-relationship d61232ee-385c-4dde-ba33-0aa314fef166
-	joinOnDateBehavior: datePartOnly
-	fromColumn: fct_pl_monthly.month
-	toColumn: LocalDateTable_46b860be-9b38-4750-ab6d-a6cfcfd4a940.Date
-
-relationship e35bc7ca-816d-4344-9033-f058388b3587
-	joinOnDateBehavior: datePartOnly
-	fromColumn: fct_budget_vs_actual.month
-	toColumn: LocalDateTable_30e8bed2-13a7-49c6-95a2-07d54a6f5ea3.Date
-
-relationship f373b42f-a259-4103-94c9-20edd18c0eb9
-	joinOnDateBehavior: datePartOnly
-	fromColumn: fct_margin_bridge.month
-	toColumn: LocalDateTable_b6f1cae8-deca-459f-b708-1d0ced999b80.Date
-
-relationship ee696b0c-2333-4a0a-ae0d-f5bc198a1d0c
-	joinOnDateBehavior: datePartOnly
+relationship 15353022-c1dd-1eea-f3e7-97d1d3b38803
 	fromColumn: fct_revenue_forecast.month
-	toColumn: LocalDateTable_905e6fac-556a-48b4-9131-b85a2a98b5ea.Date
+	toColumn: dim_date.Date
+
+relationship a1b76c7b-b0e9-811a-6a23-1acb76eaaf50
+	fromColumn: fct_margin_bridge.month
+	toColumn: dim_date.Date
+
+relationship e435015b-edba-e86e-0c51-7e80e55c5600
+	fromColumn: fct_budget_vs_actual.month
+	toColumn: dim_date.Date
+
+relationship db39d508-dd4d-e741-e6e4-2951deceb1c2
+	fromColumn: fct_pl_monthly.month
+	toColumn: dim_date.Date
 

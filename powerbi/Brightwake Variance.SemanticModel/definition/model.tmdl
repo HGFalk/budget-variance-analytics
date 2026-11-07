@@ -14,14 +14,10 @@ annotation PBI_QueryOrder = ["OutputFolder","fct_pl_monthly","fct_budget_vs_actu
 annotation PBI_ProTooling = ["DevMode"]
 
 ref table fct_pl_monthly
-ref table DateTableTemplate_fdf684c5-efdc-4ba1-b887-dd9d0baa388c
-ref table LocalDateTable_46b860be-9b38-4750-ab6d-a6cfcfd4a940
 ref table fct_budget_vs_actual
-ref table LocalDateTable_30e8bed2-13a7-49c6-95a2-07d54a6f5ea3
 ref table fct_margin_bridge
-ref table LocalDateTable_b6f1cae8-deca-459f-b708-1d0ced999b80
 ref table fct_revenue_forecast
-ref table LocalDateTable_905e6fac-556a-48b4-9131-b85a2a98b5ea
+ref table dim_date
 
 ref cultureInfo en-GB
 

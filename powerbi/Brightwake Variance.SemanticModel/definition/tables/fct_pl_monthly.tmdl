@@ -16,11 +16,6 @@ table fct_pl_monthly
 		summarizeBy: none
 		sourceColumn: month
 
-		variation Variation
-			isDefault
-			relationship: d61232ee-385c-4dde-ba33-0aa314fef166
-			defaultHierarchy: LocalDateTable_46b860be-9b38-4750-ab6d-a6cfcfd4a940.'Date Hierarchy'
-
 		annotation SummarizationSetBy = Automatic
 
 		annotation UnderlyingDateTimeDataType = Date

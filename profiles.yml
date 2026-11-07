@@ -1,0 +1,8 @@
+brightwake_finance:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: brightwake.duckdb
+      threads: 4
+      external_root: output

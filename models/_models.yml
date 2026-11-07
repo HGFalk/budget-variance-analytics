@@ -1,0 +1,73 @@
+version: 2
+
+models:
+  - name: stg_accounts
+    columns:
+      - name: account_id
+        data_tests: [unique, not_null]
+      - name: account_type
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["Revenue", "COGS", "Opex"]
+
+  - name: stg_cost_centres
+    columns:
+      - name: cost_centre_id
+        data_tests: [unique, not_null]
+
+  - name: stg_product_lines
+    columns:
+      - name: product_line_id
+        data_tests: [unique, not_null]
+
+  - name: stg_regions
+    columns:
+      - name: region_id
+        data_tests: [unique, not_null]
+
+  - name: stg_sales
+    data_tests:
+      - unique_combination:
+          arguments:
+            columns: [scenario, month, region_id, product_line_id]
+    columns:
+      - name: scenario
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["actual", "budget"]
+      - name: quantity
+        data_tests: [not_null]
+
+  - name: stg_gl
+    columns:
+      - name: account_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_accounts')
+                field: account_id
+      - name: cost_centre_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_cost_centres')
+                field: cost_centre_id
+
+  - name: fct_pl_monthly
+    description: Monthly P&L in P&L signs, actuals 2023 to 2025 and budget 2025
+
+  - name: fct_budget_vs_actual
+    description: Budget vs actual 2025 by month, account, cost centre and region
+
+  - name: fct_margin_bridge
+    description: Gross margin bridge 2025, budget to actual, in waterfall (long) format
+    columns:
+      - name: step
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["Budget gross margin", "Volume", "Mix", "Price", "Unit cost"]

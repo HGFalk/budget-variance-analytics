@@ -1,0 +1,1393 @@
+scenario,month,account_id,account_name,account_type,pl_line,cost_centre_id,cost_centre_name,region_id,region_name,pl_amount_nok,ebit_amount_nok
+actual,2023-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4447526,4447526
+actual,2023-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3129903,3129903
+actual,2023-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2204824,2204824
+actual,2023-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,3909160,3909160
+actual,2023-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,2582968,2582968
+actual,2023-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2012549,2012549
+actual,2023-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2463598,2463598
+actual,2023-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1604038,1604038
+actual,2023-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1205704,1205704
+actual,2023-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,2843867,-2843867
+actual,2023-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2032254,-2032254
+actual,2023-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1420091,-1420091
+actual,2023-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,1932823,-1932823
+actual,2023-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1328596,-1328596
+actual,2023-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1003094,-1003094
+actual,2023-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2152654,-2152654
+actual,2023-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1346550,-1346550
+actual,2023-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1016406,-1016406
+actual,2023-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1112272,-1112272
+actual,2023-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1516673,-1516673
+actual,2023-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,636599,-636599
+actual,2023-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,388432,-388432
+actual,2023-01-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-01-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,306951,-306951
+actual,2023-01-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,114002,-114002
+actual,2023-01-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,139374,-139374
+actual,2023-01-01,6700,External services and consultants,Opex,External services,CC40,IT,,,129285,-129285
+actual,2023-01-01,7140,Travel,Opex,Travel,CC10,Sales,,,185551,-185551
+actual,2023-01-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,274361,-274361
+actual,2023-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4371234,4371234
+actual,2023-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3194416,3194416
+actual,2023-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2221441,2221441
+actual,2023-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4442056,4442056
+actual,2023-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3147189,3147189
+actual,2023-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2126337,2126337
+actual,2023-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2621189,2621189
+actual,2023-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1856256,1856256
+actual,2023-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1241131,1241131
+actual,2023-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,2875492,-2875492
+actual,2023-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2055031,-2055031
+actual,2023-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1430287,-1430287
+actual,2023-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2247222,-2247222
+actual,2023-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1568424,-1568424
+actual,2023-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1087212,-1087212
+actual,2023-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2233453,-2233453
+actual,2023-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1535618,-1535618
+actual,2023-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1027064,-1027064
+actual,2023-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1112621,-1112621
+actual,2023-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1650559,-1650559
+actual,2023-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,660759,-660759
+actual,2023-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,370827,-370827
+actual,2023-02-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-02-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,313058,-313058
+actual,2023-02-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,122246,-122246
+actual,2023-02-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,147730,-147730
+actual,2023-02-01,6700,External services and consultants,Opex,External services,CC40,IT,,,150355,-150355
+actual,2023-02-01,7140,Travel,Opex,Travel,CC10,Sales,,,186620,-186620
+actual,2023-02-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,241745,-241745
+actual,2023-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5403890,5403890
+actual,2023-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3478714,3478714
+actual,2023-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2527385,2527385
+actual,2023-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4901804,4901804
+actual,2023-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3569773,3569773
+actual,2023-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2447600,2447600
+actual,2023-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2960522,2960522
+actual,2023-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2053941,2053941
+actual,2023-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1504336,1504336
+actual,2023-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3453290,-3453290
+actual,2023-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2249585,-2249585
+actual,2023-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1657284,-1657284
+actual,2023-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2452566,-2452566
+actual,2023-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1809592,-1809592
+actual,2023-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1190119,-1190119
+actual,2023-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2447374,-2447374
+actual,2023-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1728946,-1728946
+actual,2023-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1276245,-1276245
+actual,2023-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1198690,-1198690
+actual,2023-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1628218,-1628218
+actual,2023-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,653938,-653938
+actual,2023-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,395651,-395651
+actual,2023-03-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-03-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,299111,-299111
+actual,2023-03-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,119342,-119342
+actual,2023-03-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,150981,-150981
+actual,2023-03-01,6700,External services and consultants,Opex,External services,CC40,IT,,,134895,-134895
+actual,2023-03-01,7140,Travel,Opex,Travel,CC10,Sales,,,191833,-191833
+actual,2023-03-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,269969,-269969
+actual,2023-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5554630,5554630
+actual,2023-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4172107,4172107
+actual,2023-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2635105,2635105
+actual,2023-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5143664,5143664
+actual,2023-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3512761,3512761
+actual,2023-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2585682,2585682
+actual,2023-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3131719,3131719
+actual,2023-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2098758,2098758
+actual,2023-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1593481,1593481
+actual,2023-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3592707,-3592707
+actual,2023-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2693603,-2693603
+actual,2023-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1718878,-1718878
+actual,2023-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2648228,-2648228
+actual,2023-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1749375,-1749375
+actual,2023-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1320424,-1320424
+actual,2023-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2634238,-2634238
+actual,2023-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1782582,-1782582
+actual,2023-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1340569,-1340569
+actual,2023-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1077204,-1077204
+actual,2023-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1627217,-1627217
+actual,2023-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,637818,-637818
+actual,2023-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,387198,-387198
+actual,2023-04-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-04-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,281478,-281478
+actual,2023-04-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,120018,-120018
+actual,2023-04-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,155672,-155672
+actual,2023-04-01,6700,External services and consultants,Opex,External services,CC40,IT,,,150096,-150096
+actual,2023-04-01,7140,Travel,Opex,Travel,CC10,Sales,,,185705,-185705
+actual,2023-04-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,268711,-268711
+actual,2023-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5319874,5319874
+actual,2023-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3799352,3799352
+actual,2023-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2584637,2584637
+actual,2023-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4865985,4865985
+actual,2023-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3609882,3609882
+actual,2023-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2509990,2509990
+actual,2023-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2938928,2938928
+actual,2023-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2184008,2184008
+actual,2023-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1514608,1514608
+actual,2023-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3448121,-3448121
+actual,2023-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2533399,-2533399
+actual,2023-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1697916,-1697916
+actual,2023-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2412088,-2412088
+actual,2023-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1798908,-1798908
+actual,2023-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1262290,-1262290
+actual,2023-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2476626,-2476626
+actual,2023-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1809630,-1809630
+actual,2023-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1288572,-1288572
+actual,2023-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1072459,-1072459
+actual,2023-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1518316,-1518316
+actual,2023-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,641100,-641100
+actual,2023-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,391774,-391774
+actual,2023-05-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-05-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,305098,-305098
+actual,2023-05-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,113730,-113730
+actual,2023-05-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,147474,-147474
+actual,2023-05-01,6700,External services and consultants,Opex,External services,CC40,IT,,,142212,-142212
+actual,2023-05-01,7140,Travel,Opex,Travel,CC10,Sales,,,165104,-165104
+actual,2023-05-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,260678,-260678
+actual,2023-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5058354,5058354
+actual,2023-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3606639,3606639
+actual,2023-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2615495,2615495
+actual,2023-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4828152,4828152
+actual,2023-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3301763,3301763
+actual,2023-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2191495,2191495
+actual,2023-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2861960,2861960
+actual,2023-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1993189,1993189
+actual,2023-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1354086,1354086
+actual,2023-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3186983,-3186983
+actual,2023-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2270466,-2270466
+actual,2023-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1658059,-1658059
+actual,2023-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2393845,-2393845
+actual,2023-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1621324,-1621324
+actual,2023-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1110220,-1110220
+actual,2023-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2366409,-2366409
+actual,2023-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1658544,-1658544
+actual,2023-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1163969,-1163969
+actual,2023-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1122541,-1122541
+actual,2023-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1570845,-1570845
+actual,2023-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,651172,-651172
+actual,2023-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,399865,-399865
+actual,2023-06-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-06-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,317815,-317815
+actual,2023-06-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,107352,-107352
+actual,2023-06-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,149965,-149965
+actual,2023-06-01,6700,External services and consultants,Opex,External services,CC40,IT,,,141419,-141419
+actual,2023-06-01,7140,Travel,Opex,Travel,CC10,Sales,,,185545,-185545
+actual,2023-06-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,231657,-231657
+actual,2023-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,3901603,3901603
+actual,2023-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2942029,2942029
+actual,2023-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1794793,1794793
+actual,2023-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,3560230,3560230
+actual,2023-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,2440658,2440658
+actual,2023-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,1796420,1796420
+actual,2023-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2180890,2180890
+actual,2023-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1581638,1581638
+actual,2023-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1113449,1113449
+actual,2023-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,2470271,-2470271
+actual,2023-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1869178,-1869178
+actual,2023-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1182973,-1182973
+actual,2023-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,1787281,-1787281
+actual,2023-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1228907,-1228907
+actual,2023-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,911262,-911262
+actual,2023-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,1858957,-1858957
+actual,2023-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1360089,-1360089
+actual,2023-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,936002,-936002
+actual,2023-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1072480,-1072480
+actual,2023-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1599889,-1599889
+actual,2023-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,631872,-631872
+actual,2023-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,392871,-392871
+actual,2023-07-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-07-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,285678,-285678
+actual,2023-07-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,116832,-116832
+actual,2023-07-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,156043,-156043
+actual,2023-07-01,6700,External services and consultants,Opex,External services,CC40,IT,,,146817,-146817
+actual,2023-07-01,7140,Travel,Opex,Travel,CC10,Sales,,,184366,-184366
+actual,2023-07-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,272820,-272820
+actual,2023-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4801035,4801035
+actual,2023-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3141707,3141707
+actual,2023-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2326639,2326639
+actual,2023-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4510627,4510627
+actual,2023-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3007634,3007634
+actual,2023-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2089968,2089968
+actual,2023-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2669397,2669397
+actual,2023-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1891116,1891116
+actual,2023-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1254442,1254442
+actual,2023-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3126182,-3126182
+actual,2023-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2085996,-2085996
+actual,2023-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1515723,-1515723
+actual,2023-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2225820,-2225820
+actual,2023-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1484725,-1484725
+actual,2023-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1034058,-1034058
+actual,2023-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2286184,-2286184
+actual,2023-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1579426,-1579426
+actual,2023-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1047030,-1047030
+actual,2023-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1138421,-1138421
+actual,2023-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1531264,-1531264
+actual,2023-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,667634,-667634
+actual,2023-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,388313,-388313
+actual,2023-08-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-08-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,281374,-281374
+actual,2023-08-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,115426,-115426
+actual,2023-08-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,142833,-142833
+actual,2023-08-01,6700,External services and consultants,Opex,External services,CC40,IT,,,138572,-138572
+actual,2023-08-01,7140,Travel,Opex,Travel,CC10,Sales,,,180917,-180917
+actual,2023-08-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,253010,-253010
+actual,2023-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5162949,5162949
+actual,2023-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3801025,3801025
+actual,2023-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2746351,2746351
+actual,2023-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5100264,5100264
+actual,2023-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3426435,3426435
+actual,2023-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2454497,2454497
+actual,2023-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3026277,3026277
+actual,2023-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2112714,2112714
+actual,2023-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1531912,1531912
+actual,2023-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3327397,-3327397
+actual,2023-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2450961,-2450961
+actual,2023-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1775603,-1775603
+actual,2023-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2573000,-2573000
+actual,2023-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1700460,-1700460
+actual,2023-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1241554,-1241554
+actual,2023-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2484071,-2484071
+actual,2023-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1806583,-1806583
+actual,2023-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1272235,-1272235
+actual,2023-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1106031,-1106031
+actual,2023-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1717761,-1717761
+actual,2023-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,663363,-663363
+actual,2023-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,388450,-388450
+actual,2023-09-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-09-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,297695,-297695
+actual,2023-09-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,111736,-111736
+actual,2023-09-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,150888,-150888
+actual,2023-09-01,6700,External services and consultants,Opex,External services,CC40,IT,,,150178,-150178
+actual,2023-09-01,7140,Travel,Opex,Travel,CC10,Sales,,,202006,-202006
+actual,2023-09-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,261948,-261948
+actual,2023-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5277932,5277932
+actual,2023-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3551771,3551771
+actual,2023-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2660432,2660432
+actual,2023-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5017895,5017895
+actual,2023-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3590637,3590637
+actual,2023-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2579783,2579783
+actual,2023-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3036925,3036925
+actual,2023-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2069731,2069731
+actual,2023-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1568306,1568306
+actual,2023-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3401290,-3401290
+actual,2023-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2368526,-2368526
+actual,2023-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1773400,-1773400
+actual,2023-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2523149,-2523149
+actual,2023-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1815486,-1815486
+actual,2023-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1308801,-1308801
+actual,2023-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2544898,-2544898
+actual,2023-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1779002,-1779002
+actual,2023-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1325104,-1325104
+actual,2023-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1074894,-1074894
+actual,2023-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1595180,-1595180
+actual,2023-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,664788,-664788
+actual,2023-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,378530,-378530
+actual,2023-10-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-10-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,297047,-297047
+actual,2023-10-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,116134,-116134
+actual,2023-10-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,160838,-160838
+actual,2023-10-01,6700,External services and consultants,Opex,External services,CC40,IT,,,132198,-132198
+actual,2023-10-01,7140,Travel,Opex,Travel,CC10,Sales,,,190190,-190190
+actual,2023-10-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,246064,-246064
+actual,2023-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5181197,5181197
+actual,2023-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3574841,3574841
+actual,2023-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2402211,2402211
+actual,2023-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4732542,4732542
+actual,2023-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3093859,3093859
+actual,2023-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2257932,2257932
+actual,2023-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2827804,2827804
+actual,2023-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1901946,1901946
+actual,2023-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1436898,1436898
+actual,2023-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3322690,-3322690
+actual,2023-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2320437,-2320437
+actual,2023-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1561545,-1561545
+actual,2023-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2308529,-2308529
+actual,2023-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1532201,-1532201
+actual,2023-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1149098,-1149098
+actual,2023-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2385857,-2385857
+actual,2023-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1555166,-1555166
+actual,2023-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1242578,-1242578
+actual,2023-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1087389,-1087389
+actual,2023-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1618143,-1618143
+actual,2023-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,741299,-741299
+actual,2023-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,407271,-407271
+actual,2023-11-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-11-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,303656,-303656
+actual,2023-11-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,114523,-114523
+actual,2023-11-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,145601,-145601
+actual,2023-11-01,6700,External services and consultants,Opex,External services,CC40,IT,,,138941,-138941
+actual,2023-11-01,7140,Travel,Opex,Travel,CC10,Sales,,,165665,-165665
+actual,2023-11-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,277147,-277147
+actual,2023-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4161462,4161462
+actual,2023-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3048300,3048300
+actual,2023-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2180532,2180532
+actual,2023-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4006895,4006895
+actual,2023-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3008290,3008290
+actual,2023-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,1954053,1954053
+actual,2023-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2581689,2581689
+actual,2023-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1636750,1636750
+actual,2023-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1220542,1220542
+actual,2023-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,2759775,-2759775
+actual,2023-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1965825,-1965825
+actual,2023-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1440724,-1440724
+actual,2023-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2013886,-2013886
+actual,2023-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1474275,-1474275
+actual,2023-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1004925,-1004925
+actual,2023-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2168385,-2168385
+actual,2023-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1387290,-1387290
+actual,2023-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1037464,-1037464
+actual,2023-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1123793,-1123793
+actual,2023-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1567333,-1567333
+actual,2023-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,599832,-599832
+actual,2023-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,374743,-374743
+actual,2023-12-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,420000,-420000
+actual,2023-12-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,291059,-291059
+actual,2023-12-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,120662,-120662
+actual,2023-12-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,154899,-154899
+actual,2023-12-01,6700,External services and consultants,Opex,External services,CC40,IT,,,140060,-140060
+actual,2023-12-01,7140,Travel,Opex,Travel,CC10,Sales,,,180557,-180557
+actual,2023-12-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,241825,-241825
+actual,2024-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4753860,4753860
+actual,2024-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3239780,3239780
+actual,2024-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2297270,2297270
+actual,2024-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,3944837,3944837
+actual,2024-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,2934404,2934404
+actual,2024-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2121564,2121564
+actual,2024-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2659862,2659862
+actual,2024-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1690102,1690102
+actual,2024-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1304755,1304755
+actual,2024-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3050619,-3050619
+actual,2024-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2117670,-2117670
+actual,2024-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1506797,-1506797
+actual,2024-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2016499,-2016499
+actual,2024-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1486226,-1486226
+actual,2024-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1057805,-1057805
+actual,2024-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2228756,-2228756
+actual,2024-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1444714,-1444714
+actual,2024-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1102241,-1102241
+actual,2024-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1189470,-1189470
+actual,2024-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1766028,-1766028
+actual,2024-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,692716,-692716
+actual,2024-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,419741,-419741
+actual,2024-01-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-01-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,326460,-326460
+actual,2024-01-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,119546,-119546
+actual,2024-01-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,162022,-162022
+actual,2024-01-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148628,-148628
+actual,2024-01-01,7140,Travel,Opex,Travel,CC10,Sales,,,187072,-187072
+actual,2024-01-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,288945,-288945
+actual,2024-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4899149,4899149
+actual,2024-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3260585,3260585
+actual,2024-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2562178,2562178
+actual,2024-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4882873,4882873
+actual,2024-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3175613,3175613
+actual,2024-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2387922,2387922
+actual,2024-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2752875,2752875
+actual,2024-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1957832,1957832
+actual,2024-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1396556,1396556
+actual,2024-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3102196,-3102196
+actual,2024-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2089211,-2089211
+actual,2024-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1685405,-1685405
+actual,2024-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2422790,-2422790
+actual,2024-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1630718,-1630718
+actual,2024-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1178039,-1178039
+actual,2024-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2270459,-2270459
+actual,2024-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1655988,-1655988
+actual,2024-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1184869,-1184869
+actual,2024-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1178225,-1178225
+actual,2024-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1722300,-1722300
+actual,2024-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,649143,-649143
+actual,2024-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,411803,-411803
+actual,2024-02-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-02-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,331980,-331980
+actual,2024-02-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,116818,-116818
+actual,2024-02-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,164570,-164570
+actual,2024-02-01,6700,External services and consultants,Opex,External services,CC40,IT,,,142241,-142241
+actual,2024-02-01,7140,Travel,Opex,Travel,CC10,Sales,,,190217,-190217
+actual,2024-02-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,249646,-249646
+actual,2024-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5883974,5883974
+actual,2024-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3829418,3829418
+actual,2024-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2884312,2884312
+actual,2024-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4984063,4984063
+actual,2024-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3596554,3596554
+actual,2024-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2562986,2562986
+actual,2024-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3108252,3108252
+actual,2024-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2072898,2072898
+actual,2024-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1477306,1477306
+actual,2024-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3811383,-3811383
+actual,2024-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2436213,-2436213
+actual,2024-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1844847,-1844847
+actual,2024-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2476268,-2476268
+actual,2024-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1789344,-1789344
+actual,2024-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1285093,-1285093
+actual,2024-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2533944,-2533944
+actual,2024-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1716468,-1716468
+actual,2024-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1259538,-1259538
+actual,2024-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1078091,-1078091
+actual,2024-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1670572,-1670572
+actual,2024-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,663789,-663789
+actual,2024-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,375665,-375665
+actual,2024-03-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-03-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,315957,-315957
+actual,2024-03-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,124231,-124231
+actual,2024-03-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,157219,-157219
+actual,2024-03-01,6700,External services and consultants,Opex,External services,CC40,IT,,,144222,-144222
+actual,2024-03-01,7140,Travel,Opex,Travel,CC10,Sales,,,183171,-183171
+actual,2024-03-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,282980,-282980
+actual,2024-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5545865,5545865
+actual,2024-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4309196,4309196
+actual,2024-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2767050,2767050
+actual,2024-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5511657,5511657
+actual,2024-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,4151919,4151919
+actual,2024-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2474249,2474249
+actual,2024-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3336457,3336457
+actual,2024-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2290651,2290651
+actual,2024-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1676964,1676964
+actual,2024-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3620242,-3620242
+actual,2024-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2833588,-2833588
+actual,2024-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1795340,-1795340
+actual,2024-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2734117,-2734117
+actual,2024-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2105283,-2105283
+actual,2024-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1225498,-1225498
+actual,2024-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2834305,-2834305
+actual,2024-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1925572,-1925572
+actual,2024-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1365130,-1365130
+actual,2024-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1101111,-1101111
+actual,2024-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1641523,-1641523
+actual,2024-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,672673,-672673
+actual,2024-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,353754,-353754
+actual,2024-04-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-04-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,295184,-295184
+actual,2024-04-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,122462,-122462
+actual,2024-04-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,152616,-152616
+actual,2024-04-01,6700,External services and consultants,Opex,External services,CC40,IT,,,142303,-142303
+actual,2024-04-01,7140,Travel,Opex,Travel,CC10,Sales,,,183214,-183214
+actual,2024-04-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,291518,-291518
+actual,2024-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5583781,5583781
+actual,2024-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3956727,3956727
+actual,2024-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2846516,2846516
+actual,2024-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5205834,5205834
+actual,2024-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3891079,3891079
+actual,2024-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2554011,2554011
+actual,2024-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3140047,3140047
+actual,2024-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2263667,2263667
+actual,2024-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1512307,1512307
+actual,2024-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3590506,-3590506
+actual,2024-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2566635,-2566635
+actual,2024-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1848652,-1848652
+actual,2024-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2625615,-2625615
+actual,2024-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1960902,-1960902
+actual,2024-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1275598,-1275598
+actual,2024-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2582535,-2582535
+actual,2024-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1918809,-1918809
+actual,2024-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1246826,-1246826
+actual,2024-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1104769,-1104769
+actual,2024-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1771199,-1771199
+actual,2024-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,677258,-677258
+actual,2024-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,395275,-395275
+actual,2024-05-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-05-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,335555,-335555
+actual,2024-05-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,122581,-122581
+actual,2024-05-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,153814,-153814
+actual,2024-05-01,6700,External services and consultants,Opex,External services,CC40,IT,,,127476,-127476
+actual,2024-05-01,7140,Travel,Opex,Travel,CC10,Sales,,,198208,-198208
+actual,2024-05-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,268626,-268626
+actual,2024-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5143486,5143486
+actual,2024-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3735214,3735214
+actual,2024-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2536144,2536144
+actual,2024-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4963365,4963365
+actual,2024-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3669899,3669899
+actual,2024-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2389762,2389762
+actual,2024-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3278171,3278171
+actual,2024-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2049039,2049039
+actual,2024-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1446317,1446317
+actual,2024-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3328917,-3328917
+actual,2024-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2441701,-2441701
+actual,2024-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1610687,-1610687
+actual,2024-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2477930,-2477930
+actual,2024-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1820000,-1820000
+actual,2024-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1185931,-1185931
+actual,2024-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2695166,-2695166
+actual,2024-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1718010,-1718010
+actual,2024-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1220096,-1220096
+actual,2024-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1029512,-1029512
+actual,2024-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1721417,-1721417
+actual,2024-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,663012,-663012
+actual,2024-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,415557,-415557
+actual,2024-06-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-06-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,311844,-311844
+actual,2024-06-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,123690,-123690
+actual,2024-06-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,162372,-162372
+actual,2024-06-01,6700,External services and consultants,Opex,External services,CC40,IT,,,151141,-151141
+actual,2024-06-01,7140,Travel,Opex,Travel,CC10,Sales,,,180365,-180365
+actual,2024-06-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,274135,-274135
+actual,2024-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4491118,4491118
+actual,2024-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2835448,2835448
+actual,2024-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2072750,2072750
+actual,2024-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,3800378,3800378
+actual,2024-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,2872136,2872136
+actual,2024-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,1962725,1962725
+actual,2024-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2406247,2406247
+actual,2024-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1675151,1675151
+actual,2024-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1139817,1139817
+actual,2024-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,2921891,-2921891
+actual,2024-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1812742,-1812742
+actual,2024-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1339159,-1339159
+actual,2024-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,1871937,-1871937
+actual,2024-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1404841,-1404841
+actual,2024-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,974535,-974535
+actual,2024-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2044553,-2044553
+actual,2024-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1406899,-1406899
+actual,2024-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,963408,-963408
+actual,2024-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1159595,-1159595
+actual,2024-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1673203,-1673203
+actual,2024-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,725786,-725786
+actual,2024-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,367187,-367187
+actual,2024-07-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-07-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,290660,-290660
+actual,2024-07-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127913,-127913
+actual,2024-07-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,135567,-135567
+actual,2024-07-01,6700,External services and consultants,Opex,External services,CC40,IT,,,141581,-141581
+actual,2024-07-01,7140,Travel,Opex,Travel,CC10,Sales,,,180195,-180195
+actual,2024-07-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,267818,-267818
+actual,2024-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5115010,5115010
+actual,2024-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3242830,3242830
+actual,2024-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2519252,2519252
+actual,2024-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4493613,4493613
+actual,2024-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3236818,3236818
+actual,2024-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2304311,2304311
+actual,2024-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2651469,2651469
+actual,2024-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2110386,2110386
+actual,2024-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1393535,1393535
+actual,2024-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3240523,-3240523
+actual,2024-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2115294,-2115294
+actual,2024-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1615538,-1615538
+actual,2024-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2266597,-2266597
+actual,2024-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1600352,-1600352
+actual,2024-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1155201,-1155201
+actual,2024-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2267742,-2267742
+actual,2024-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1716975,-1716975
+actual,2024-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1187487,-1187487
+actual,2024-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1129436,-1129436
+actual,2024-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1592378,-1592378
+actual,2024-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,736899,-736899
+actual,2024-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,388016,-388016
+actual,2024-08-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-08-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,291245,-291245
+actual,2024-08-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,117512,-117512
+actual,2024-08-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,151319,-151319
+actual,2024-08-01,6700,External services and consultants,Opex,External services,CC40,IT,,,130442,-130442
+actual,2024-08-01,7140,Travel,Opex,Travel,CC10,Sales,,,171427,-171427
+actual,2024-08-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,300705,-300705
+actual,2024-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5788651,5788651
+actual,2024-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4163126,4163126
+actual,2024-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2809056,2809056
+actual,2024-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5336100,5336100
+actual,2024-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3764755,3764755
+actual,2024-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2521974,2521974
+actual,2024-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3214306,3214306
+actual,2024-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2381805,2381805
+actual,2024-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1509603,1509603
+actual,2024-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3905511,-3905511
+actual,2024-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2723037,-2723037
+actual,2024-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1831895,-1831895
+actual,2024-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2598192,-2598192
+actual,2024-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1862492,-1862492
+actual,2024-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1247322,-1247322
+actual,2024-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2647672,-2647672
+actual,2024-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1984659,-1984659
+actual,2024-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1263162,-1263162
+actual,2024-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1137314,-1137314
+actual,2024-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1530863,-1530863
+actual,2024-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,681024,-681024
+actual,2024-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,403449,-403449
+actual,2024-09-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-09-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,288598,-288598
+actual,2024-09-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,123076,-123076
+actual,2024-09-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,157329,-157329
+actual,2024-09-01,6700,External services and consultants,Opex,External services,CC40,IT,,,150362,-150362
+actual,2024-09-01,7140,Travel,Opex,Travel,CC10,Sales,,,176150,-176150
+actual,2024-09-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,257597,-257597
+actual,2024-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,6169284,6169284
+actual,2024-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4024216,4024216
+actual,2024-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2837582,2837582
+actual,2024-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5853990,5853990
+actual,2024-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3998078,3998078
+actual,2024-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2760749,2760749
+actual,2024-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3248255,3248255
+actual,2024-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2200881,2200881
+actual,2024-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1590307,1590307
+actual,2024-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,4050925,-4050925
+actual,2024-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2634959,-2634959
+actual,2024-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1804327,-1804327
+actual,2024-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2942962,-2942962
+actual,2024-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2003789,-2003789
+actual,2024-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1388916,-1388916
+actual,2024-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2711077,-2711077
+actual,2024-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1865144,-1865144
+actual,2024-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1353272,-1353272
+actual,2024-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1098228,-1098228
+actual,2024-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1549485,-1549485
+actual,2024-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,688349,-688349
+actual,2024-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,392414,-392414
+actual,2024-10-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-10-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,332666,-332666
+actual,2024-10-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,123534,-123534
+actual,2024-10-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159235,-159235
+actual,2024-10-01,6700,External services and consultants,Opex,External services,CC40,IT,,,151464,-151464
+actual,2024-10-01,7140,Travel,Opex,Travel,CC10,Sales,,,191267,-191267
+actual,2024-10-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,263566,-263566
+actual,2024-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5459364,5459364
+actual,2024-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3967564,3967564
+actual,2024-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2478684,2478684
+actual,2024-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5012481,5012481
+actual,2024-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3603303,3603303
+actual,2024-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2561579,2561579
+actual,2024-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3117435,3117435
+actual,2024-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2180886,2180886
+actual,2024-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1460182,1460182
+actual,2024-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3595502,-3595502
+actual,2024-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2602722,-2602722
+actual,2024-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1613686,-1613686
+actual,2024-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2520068,-2520068
+actual,2024-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1760756,-1760756
+actual,2024-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1255296,-1255296
+actual,2024-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2565121,-2565121
+actual,2024-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1821284,-1821284
+actual,2024-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1234913,-1234913
+actual,2024-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1129319,-1129319
+actual,2024-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1827112,-1827112
+actual,2024-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,644683,-644683
+actual,2024-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,374288,-374288
+actual,2024-11-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-11-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,288567,-288567
+actual,2024-11-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,135551,-135551
+actual,2024-11-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,165971,-165971
+actual,2024-11-01,6700,External services and consultants,Opex,External services,CC40,IT,,,140695,-140695
+actual,2024-11-01,7140,Travel,Opex,Travel,CC10,Sales,,,192354,-192354
+actual,2024-11-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,251357,-251357
+actual,2024-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4398511,4398511
+actual,2024-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3329538,3329538
+actual,2024-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2314060,2314060
+actual,2024-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4202424,4202424
+actual,2024-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,2918829,2918829
+actual,2024-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2106966,2106966
+actual,2024-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2602144,2602144
+actual,2024-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1830197,1830197
+actual,2024-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1354698,1354698
+actual,2024-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,2872518,-2872518
+actual,2024-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2145521,-2145521
+actual,2024-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1458473,-1458473
+actual,2024-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2107454,-2107454
+actual,2024-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1452715,-1452715
+actual,2024-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1073433,-1073433
+actual,2024-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2186051,-2186051
+actual,2024-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1531107,-1531107
+actual,2024-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1148376,-1148376
+actual,2024-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1168037,-1168037
+actual,2024-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1607906,-1607906
+actual,2024-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,646273,-646273
+actual,2024-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,401079,-401079
+actual,2024-12-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,432600,-432600
+actual,2024-12-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,322700,-322700
+actual,2024-12-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,119580,-119580
+actual,2024-12-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,172126,-172126
+actual,2024-12-01,6700,External services and consultants,Opex,External services,CC40,IT,,,140674,-140674
+actual,2024-12-01,7140,Travel,Opex,Travel,CC10,Sales,,,184451,-184451
+actual,2024-12-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,258262,-258262
+actual,2025-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4658298,4658298
+actual,2025-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3148927,3148927
+actual,2025-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2335837,2335837
+actual,2025-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5218592,5218592
+actual,2025-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3455560,3455560
+actual,2025-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2364649,2364649
+actual,2025-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2764475,2764475
+actual,2025-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1958087,1958087
+actual,2025-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1402276,1402276
+actual,2025-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3012848,-3012848
+actual,2025-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2011668,-2011668
+actual,2025-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1496770,-1496770
+actual,2025-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2613323,-2613323
+actual,2025-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1696348,-1696348
+actual,2025-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1164694,-1164694
+actual,2025-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2263150,-2263150
+actual,2025-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1630665,-1630665
+actual,2025-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1166681,-1166681
+actual,2025-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1176954,-1176954
+actual,2025-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1608940,-1608940
+actual,2025-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,623033,-623033
+actual,2025-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,503226,-503226
+actual,2025-01-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-01-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,364887,-364887
+actual,2025-01-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,110335,-110335
+actual,2025-01-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,149497,-149497
+actual,2025-01-01,6700,External services and consultants,Opex,External services,CC40,IT,,,181672,-181672
+actual,2025-01-01,7140,Travel,Opex,Travel,CC10,Sales,,,183993,-183993
+actual,2025-01-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,250650,-250650
+actual,2025-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4986405,4986405
+actual,2025-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3329117,3329117
+actual,2025-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2387088,2387088
+actual,2025-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5845092,5845092
+actual,2025-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3734559,3734559
+actual,2025-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2657417,2657417
+actual,2025-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3176771,3176771
+actual,2025-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1934913,1934913
+actual,2025-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1524240,1524240
+actual,2025-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3173790,-3173790
+actual,2025-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2125082,-2125082
+actual,2025-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1532739,-1532739
+actual,2025-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2813645,-2813645
+actual,2025-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1798753,-1798753
+actual,2025-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1321799,-1321799
+actual,2025-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2576490,-2576490
+actual,2025-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1609288,-1609288
+actual,2025-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1293300,-1293300
+actual,2025-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1212412,-1212412
+actual,2025-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1773269,-1773269
+actual,2025-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,681760,-681760
+actual,2025-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,485321,-485321
+actual,2025-02-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-02-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,355651,-355651
+actual,2025-02-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,121470,-121470
+actual,2025-02-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,163448,-163448
+actual,2025-02-01,6700,External services and consultants,Opex,External services,CC40,IT,,,161079,-161079
+actual,2025-02-01,7140,Travel,Opex,Travel,CC10,Sales,,,198266,-198266
+actual,2025-02-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,285642,-285642
+actual,2025-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5367364,5367364
+actual,2025-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3902385,3902385
+actual,2025-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2722788,2722788
+actual,2025-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5823658,5823658
+actual,2025-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,4046013,4046013
+actual,2025-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,3026669,3026669
+actual,2025-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3061579,3061579
+actual,2025-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2278850,2278850
+actual,2025-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1555515,1555515
+actual,2025-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3441381,-3441381
+actual,2025-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2497579,-2497579
+actual,2025-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1684630,-1684630
+actual,2025-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2860194,-2860194
+actual,2025-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2016605,-2016605
+actual,2025-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1454600,-1454600
+actual,2025-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2520702,-2520702
+actual,2025-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1902038,-1902038
+actual,2025-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1285223,-1285223
+actual,2025-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1117663,-1117663
+actual,2025-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1659526,-1659526
+actual,2025-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,722026,-722026
+actual,2025-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,508581,-508581
+actual,2025-03-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-03-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,389050,-389050
+actual,2025-03-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,129280,-129280
+actual,2025-03-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,163915,-163915
+actual,2025-03-01,6700,External services and consultants,Opex,External services,CC40,IT,,,162116,-162116
+actual,2025-03-01,7140,Travel,Opex,Travel,CC10,Sales,,,191625,-191625
+actual,2025-03-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275966,-275966
+actual,2025-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5449860,5449860
+actual,2025-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3845545,3845545
+actual,2025-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2749549,2749549
+actual,2025-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,6848207,6848207
+actual,2025-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,4713462,4713462
+actual,2025-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,3097739,3097739
+actual,2025-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3313777,3313777
+actual,2025-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2731766,2731766
+actual,2025-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1741661,1741661
+actual,2025-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3492906,-3492906
+actual,2025-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2490707,-2490707
+actual,2025-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1761209,-1761209
+actual,2025-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,3340924,-3340924
+actual,2025-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2347530,-2347530
+actual,2025-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1530165,-1530165
+actual,2025-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2752444,-2752444
+actual,2025-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2251150,-2251150
+actual,2025-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1447607,-1447607
+actual,2025-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1288005,-1288005
+actual,2025-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1733874,-1733874
+actual,2025-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,638550,-638550
+actual,2025-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,435162,-435162
+actual,2025-04-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-04-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,383387,-383387
+actual,2025-04-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,133845,-133845
+actual,2025-04-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,157636,-157636
+actual,2025-04-01,6700,External services and consultants,Opex,External services,CC40,IT,,,183603,-183603
+actual,2025-04-01,7140,Travel,Opex,Travel,CC10,Sales,,,185734,-185734
+actual,2025-04-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,269921,-269921
+actual,2025-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,6226566,6226566
+actual,2025-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4157820,4157820
+actual,2025-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2842151,2842151
+actual,2025-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,6014628,6014628
+actual,2025-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,4298854,4298854
+actual,2025-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2891403,2891403
+actual,2025-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3393748,3393748
+actual,2025-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2341677,2341677
+actual,2025-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1713825,1713825
+actual,2025-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3949652,-3949652
+actual,2025-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2694755,-2694755
+actual,2025-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1821085,-1821085
+actual,2025-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2928937,-2928937
+actual,2025-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2156148,-2156148
+actual,2025-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1421184,-1421184
+actual,2025-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2826052,-2826052
+actual,2025-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2011307,-2011307
+actual,2025-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1416517,-1416517
+actual,2025-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1140663,-1140663
+actual,2025-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1673699,-1673699
+actual,2025-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,700647,-700647
+actual,2025-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,460580,-460580
+actual,2025-05-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-05-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,383973,-383973
+actual,2025-05-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,122587,-122587
+actual,2025-05-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,172830,-172830
+actual,2025-05-01,6700,External services and consultants,Opex,External services,CC40,IT,,,171491,-171491
+actual,2025-05-01,7140,Travel,Opex,Travel,CC10,Sales,,,193681,-193681
+actual,2025-05-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,286273,-286273
+actual,2025-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5388490,5388490
+actual,2025-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3822348,3822348
+actual,2025-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2717918,2717918
+actual,2025-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5739138,5739138
+actual,2025-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,4257782,4257782
+actual,2025-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2935336,2935336
+actual,2025-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3099425,3099425
+actual,2025-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2224012,2224012
+actual,2025-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1571889,1571889
+actual,2025-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3346298,-3346298
+actual,2025-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2455278,-2455278
+actual,2025-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1756062,-1756062
+actual,2025-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2838913,-2838913
+actual,2025-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2051039,-2051039
+actual,2025-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1440306,-1440306
+actual,2025-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2610344,-2610344
+actual,2025-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1891425,-1891425
+actual,2025-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1336571,-1336571
+actual,2025-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1235269,-1235269
+actual,2025-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1718021,-1718021
+actual,2025-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,725239,-725239
+actual,2025-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,485967,-485967
+actual,2025-06-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-06-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,393803,-393803
+actual,2025-06-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,126885,-126885
+actual,2025-06-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,164169,-164169
+actual,2025-06-01,6700,External services and consultants,Opex,External services,CC40,IT,,,183027,-183027
+actual,2025-06-01,7140,Travel,Opex,Travel,CC10,Sales,,,186534,-186534
+actual,2025-06-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,264079,-264079
+actual,2025-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4027158,4027158
+actual,2025-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3218531,3218531
+actual,2025-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2050222,2050222
+actual,2025-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4566120,4566120
+actual,2025-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3377463,3377463
+actual,2025-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2150108,2150108
+actual,2025-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2492520,2492520
+actual,2025-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1756162,1756162
+actual,2025-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1334400,1334400
+actual,2025-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,2647678,-2647678
+actual,2025-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2026500,-2026500
+actual,2025-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1303862,-1303862
+actual,2025-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2216089,-2216089
+actual,2025-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1661507,-1661507
+actual,2025-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1085216,-1085216
+actual,2025-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2077619,-2077619
+actual,2025-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1478757,-1478757
+actual,2025-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1094187,-1094187
+actual,2025-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1165728,-1165728
+actual,2025-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1730018,-1730018
+actual,2025-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,758864,-758864
+actual,2025-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,466815,-466815
+actual,2025-07-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-07-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,387525,-387525
+actual,2025-07-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,123234,-123234
+actual,2025-07-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,161891,-161891
+actual,2025-07-01,6700,External services and consultants,Opex,External services,CC40,IT,,,152138,-152138
+actual,2025-07-01,7140,Travel,Opex,Travel,CC10,Sales,,,194359,-194359
+actual,2025-07-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,267335,-267335
+actual,2025-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5023207,5023207
+actual,2025-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3663743,3663743
+actual,2025-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2471010,2471010
+actual,2025-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5462713,5462713
+actual,2025-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3861635,3861635
+actual,2025-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2696916,2696916
+actual,2025-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2802708,2802708
+actual,2025-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1970748,1970748
+actual,2025-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1505047,1505047
+actual,2025-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3250081,-3250081
+actual,2025-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2328284,-2328284
+actual,2025-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1599654,-1599654
+actual,2025-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2701558,-2701558
+actual,2025-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1902017,-1902017
+actual,2025-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1346380,-1346380
+actual,2025-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2320631,-2320631
+actual,2025-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1686898,-1686898
+actual,2025-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1256393,-1256393
+actual,2025-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1068362,-1068362
+actual,2025-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1749639,-1749639
+actual,2025-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,701184,-701184
+actual,2025-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,491409,-491409
+actual,2025-08-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-08-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,368803,-368803
+actual,2025-08-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127585,-127585
+actual,2025-08-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,174928,-174928
+actual,2025-08-01,6700,External services and consultants,Opex,External services,CC40,IT,,,166914,-166914
+actual,2025-08-01,7140,Travel,Opex,Travel,CC10,Sales,,,198392,-198392
+actual,2025-08-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,257322,-257322
+actual,2025-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5569928,5569928
+actual,2025-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3977068,3977068
+actual,2025-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2807841,2807841
+actual,2025-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,6154073,6154073
+actual,2025-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,4593396,4593396
+actual,2025-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,3142522,3142522
+actual,2025-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3356234,3356234
+actual,2025-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2152156,2152156
+actual,2025-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1721604,1721604
+actual,2025-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3576314,-3576314
+actual,2025-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2601955,-2601955
+actual,2025-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1817854,-1817854
+actual,2025-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,3015012,-3015012
+actual,2025-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2251154,-2251154
+actual,2025-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1543993,-1543993
+actual,2025-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2841040,-2841040
+actual,2025-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1801779,-1801779
+actual,2025-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1442611,-1442611
+actual,2025-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1164562,-1164562
+actual,2025-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1801050,-1801050
+actual,2025-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,678784,-678784
+actual,2025-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,449180,-449180
+actual,2025-09-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-09-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,366678,-366678
+actual,2025-09-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,128839,-128839
+actual,2025-09-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,149798,-149798
+actual,2025-09-01,6700,External services and consultants,Opex,External services,CC40,IT,,,152874,-152874
+actual,2025-09-01,7140,Travel,Opex,Travel,CC10,Sales,,,170487,-170487
+actual,2025-09-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,253888,-253888
+actual,2025-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5753573,5753573
+actual,2025-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4391397,4391397
+actual,2025-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2915051,2915051
+actual,2025-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5861196,5861196
+actual,2025-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,4109322,4109322
+actual,2025-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,3102949,3102949
+actual,2025-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3516572,3516572
+actual,2025-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2518954,2518954
+actual,2025-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1632423,1632423
+actual,2025-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3669748,-3669748
+actual,2025-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2809356,-2809356
+actual,2025-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1849743,-1849743
+actual,2025-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2888805,-2888805
+actual,2025-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1960624,-1960624
+actual,2025-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1551775,-1551775
+actual,2025-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2857227,-2857227
+actual,2025-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2067782,-2067782
+actual,2025-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1375324,-1375324
+actual,2025-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1224488,-1224488
+actual,2025-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1513667,-1513667
+actual,2025-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,745275,-745275
+actual,2025-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,463759,-463759
+actual,2025-10-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-10-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,344124,-344124
+actual,2025-10-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,125603,-125603
+actual,2025-10-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,136915,-136915
+actual,2025-10-01,6700,External services and consultants,Opex,External services,CC40,IT,,,177525,-177525
+actual,2025-10-01,7140,Travel,Opex,Travel,CC10,Sales,,,197992,-197992
+actual,2025-10-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,261869,-261869
+actual,2025-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5445317,5445317
+actual,2025-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3987983,3987983
+actual,2025-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2895691,2895691
+actual,2025-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,6310202,6310202
+actual,2025-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,4273879,4273879
+actual,2025-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2942814,2942814
+actual,2025-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3311520,3311520
+actual,2025-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2307812,2307812
+actual,2025-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1688164,1688164
+actual,2025-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3406941,-3406941
+actual,2025-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2662357,-2662357
+actual,2025-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1887684,-1887684
+actual,2025-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,3072306,-3072306
+actual,2025-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2111575,-2111575
+actual,2025-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1467697,-1467697
+actual,2025-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2752499,-2752499
+actual,2025-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1933112,-1933112
+actual,2025-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1382207,-1382207
+actual,2025-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1147898,-1147898
+actual,2025-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1886650,-1886650
+actual,2025-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,715199,-715199
+actual,2025-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,500051,-500051
+actual,2025-11-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-11-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,351794,-351794
+actual,2025-11-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,130796,-130796
+actual,2025-11-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,147194,-147194
+actual,2025-11-01,6700,External services and consultants,Opex,External services,CC40,IT,,,165875,-165875
+actual,2025-11-01,7140,Travel,Opex,Travel,CC10,Sales,,,194654,-194654
+actual,2025-11-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,272803,-272803
+actual,2025-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4673910,4673910
+actual,2025-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3490845,3490845
+actual,2025-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2327786,2327786
+actual,2025-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4999981,4999981
+actual,2025-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3382729,3382729
+actual,2025-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2665387,2665387
+actual,2025-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2753150,2753150
+actual,2025-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2023485,2023485
+actual,2025-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1423426,1423426
+actual,2025-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,2973837,-2973837
+actual,2025-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2184637,-2184637
+actual,2025-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1493125,-1493125
+actual,2025-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2499166,-2499166
+actual,2025-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1650927,-1650927
+actual,2025-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1301094,-1301094
+actual,2025-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2243259,-2243259
+actual,2025-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1704538,-1704538
+actual,2025-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1203646,-1203646
+actual,2025-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1186678,-1186678
+actual,2025-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1811589,-1811589
+actual,2025-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,646230,-646230
+actual,2025-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,489470,-489470
+actual,2025-12-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+actual,2025-12-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,331361,-331361
+actual,2025-12-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,128655,-128655
+actual,2025-12-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,158016,-158016
+actual,2025-12-01,6700,External services and consultants,Opex,External services,CC40,IT,,,161489,-161489
+actual,2025-12-01,7140,Travel,Opex,Travel,CC10,Sales,,,175890,-175890
+actual,2025-12-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,279637,-279637
+budget,2025-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4784700,4784700
+budget,2025-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3357900,3357900
+budget,2025-01-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2398500,2398500
+budget,2025-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4490730,4490730
+budget,2025-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3143880,3143880
+budget,2025-01-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2245365,2245365
+budget,2025-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2693977,2693977
+budget,2025-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1885774,1885774
+budget,2025-01-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1346988,1346988
+budget,2025-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3155568,-3155568
+budget,2025-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2214576,-2214576
+budget,2025-01-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1581840,-1581840
+budget,2025-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2278224,-2278224
+budget,2025-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1594944,-1594944
+budget,2025-01-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1139112,-1139112
+budget,2025-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2308205,-2308205
+budget,2025-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1615736,-1615736
+budget,2025-01-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1154103,-1154103
+budget,2025-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-01-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-01-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-01-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-01-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-01-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-01-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-01-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-01-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5067600,5067600
+budget,2025-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3554700,3554700
+budget,2025-02-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2533800,2533800
+budget,2025-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4754565,4754565
+budget,2025-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3328380,3328380
+budget,2025-02-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2378205,2378205
+budget,2025-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2852970,2852970
+budget,2025-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1997074,1997074
+budget,2025-02-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1426508,1426508
+budget,2025-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3342144,-3342144
+budget,2025-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2344368,-2344368
+budget,2025-02-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1671072,-1671072
+budget,2025-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2412072,-2412072
+budget,2025-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1688544,-1688544
+budget,2025-02-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1206504,-1206504
+budget,2025-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2444431,-2444431
+budget,2025-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1711097,-1711097
+budget,2025-02-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1222235,-1222235
+budget,2025-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-02-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-02-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-02-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-02-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-02-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-02-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-02-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-02-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5781000,5781000
+budget,2025-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4046700,4046700
+budget,2025-03-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2890500,2890500
+budget,2025-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5422455,5422455
+budget,2025-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3797010,3797010
+budget,2025-03-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2712150,2712150
+budget,2025-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3253980,3253980
+budget,2025-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2277791,2277791
+budget,2025-03-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1627013,1627013
+budget,2025-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3812640,-3812640
+budget,2025-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2668848,-2668848
+budget,2025-03-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1906320,-1906320
+budget,2025-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2750904,-2750904
+budget,2025-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1926288,-1926288
+budget,2025-03-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1375920,-1375920
+budget,2025-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2788017,-2788017
+budget,2025-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1951616,-1951616
+budget,2025-03-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1394028,-1394028
+budget,2025-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-03-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-03-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-03-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-03-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-03-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-03-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-03-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-03-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,6014700,6014700
+budget,2025-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4218900,4218900
+budget,2025-04-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,3013500,3013500
+budget,2025-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5642010,5642010
+budget,2025-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3950145,3950145
+budget,2025-04-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2821005,2821005
+budget,2025-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3385575,3385575
+budget,2025-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2369902,2369902
+budget,2025-04-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1692787,1692787
+budget,2025-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3966768,-3966768
+budget,2025-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2782416,-2782416
+budget,2025-04-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1987440,-1987440
+budget,2025-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2862288,-2862288
+budget,2025-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2003976,-2003976
+budget,2025-04-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1431144,-1431144
+budget,2025-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2900768,-2900768
+budget,2025-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2030538,-2030538
+budget,2025-04-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1450384,-1450384
+budget,2025-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-04-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-04-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-04-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-04-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-04-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-04-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-04-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-04-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5928600,5928600
+budget,2025-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4157400,4157400
+budget,2025-05-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2964300,2964300
+budget,2025-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5560830,5560830
+budget,2025-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3891105,3891105
+budget,2025-05-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2780415,2780415
+budget,2025-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3335991,3335991
+budget,2025-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2335170,2335170
+budget,2025-05-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1667972,1667972
+budget,2025-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3909984,-3909984
+budget,2025-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2741856,-2741856
+budget,2025-05-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1954992,-1954992
+budget,2025-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2821104,-2821104
+budget,2025-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1974024,-1974024
+budget,2025-05-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1410552,-1410552
+budget,2025-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2858284,-2858284
+budget,2025-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2000779,-2000779
+budget,2025-05-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1429122,-1429122
+budget,2025-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-05-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-05-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-05-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-05-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-05-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-05-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-05-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-05-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5522700,5522700
+budget,2025-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3862200,3862200
+budget,2025-06-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2755200,2755200
+budget,2025-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5173380,5173380
+budget,2025-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3619890,3619890
+budget,2025-06-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2586690,2586690
+budget,2025-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3103521,3103521
+budget,2025-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2172441,2172441
+budget,2025-06-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1551737,1551737
+budget,2025-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3642288,-3642288
+budget,2025-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2547168,-2547168
+budget,2025-06-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1817088,-1817088
+budget,2025-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2624544,-2624544
+budget,2025-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1836432,-1836432
+budget,2025-06-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1312272,-1312272
+budget,2025-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2659103,-2659103
+budget,2025-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1861352,-1861352
+budget,2025-06-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1329532,-1329532
+budget,2025-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-06-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-06-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-06-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-06-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-06-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-06-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-06-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-06-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4341900,4341900
+budget,2025-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3038100,3038100
+budget,2025-07-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2164800,2164800
+budget,2025-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4070070,4070070
+budget,2025-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,2848680,2848680
+budget,2025-07-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2035035,2035035
+budget,2025-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2442088,2442088
+budget,2025-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1709439,1709439
+budget,2025-07-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1221021,1221021
+budget,2025-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,2863536,-2863536
+budget,2025-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2003664,-2003664
+budget,2025-07-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1427712,-1427712
+budget,2025-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2064816,-2064816
+budget,2025-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1445184,-1445184
+budget,2025-07-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1032408,-1032408
+budget,2025-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2092386,-2092386
+budget,2025-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1464651,-1464651
+budget,2025-07-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1046173,-1046173
+budget,2025-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-07-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-07-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-07-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-07-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-07-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-07-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-07-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-07-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5178300,5178300
+budget,2025-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3616200,3616200
+budget,2025-08-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2583000,2583000
+budget,2025-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4848660,4848660
+budget,2025-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3394800,3394800
+budget,2025-08-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2424330,2424330
+budget,2025-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2909473,2909473
+budget,2025-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2036649,2036649
+budget,2025-08-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1454736,1454736
+budget,2025-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3415152,-3415152
+budget,2025-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2384928,-2384928
+budget,2025-08-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1703520,-1703520
+budget,2025-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2459808,-2459808
+budget,2025-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1722240,-1722240
+budget,2025-08-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1229904,-1229904
+budget,2025-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2492843,-2492843
+budget,2025-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1745006,-1745006
+budget,2025-08-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1246421,-1246421
+budget,2025-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-08-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-08-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-08-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-08-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-08-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-08-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-08-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-08-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5904000,5904000
+budget,2025-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4132800,4132800
+budget,2025-09-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2952000,2952000
+budget,2025-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5531310,5531310
+budget,2025-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3870810,3870810
+budget,2025-09-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2765655,2765655
+budget,2025-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3318417,3318417
+budget,2025-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2322901,2322901
+budget,2025-09-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1659208,1659208
+budget,2025-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3893760,-3893760
+budget,2025-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2725632,-2725632
+budget,2025-09-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1946880,-1946880
+budget,2025-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2806128,-2806128
+budget,2025-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1963728,-1963728
+budget,2025-09-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1403064,-1403064
+budget,2025-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2843227,-2843227
+budget,2025-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1990267,-1990267
+budget,2025-09-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1421613,-1421613
+budget,2025-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-09-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-09-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-09-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-09-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-09-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-09-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-09-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-09-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,6027000,6027000
+budget,2025-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,4218900,4218900
+budget,2025-10-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,3013500,3013500
+budget,2025-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5651235,5651235
+budget,2025-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3955680,3955680
+budget,2025-10-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2826540,2826540
+budget,2025-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3390972,3390972
+budget,2025-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2373685,2373685
+budget,2025-10-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1695463,1695463
+budget,2025-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3974880,-3974880
+budget,2025-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2782416,-2782416
+budget,2025-10-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1987440,-1987440
+budget,2025-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2866968,-2866968
+budget,2025-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,2006784,-2006784
+budget,2025-10-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1433952,-1433952
+budget,2025-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2905392,-2905392
+budget,2025-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2033778,-2033778
+budget,2025-10-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1452676,-1452676
+budget,2025-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-10-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-10-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-10-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-10-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-10-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-10-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-10-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-10-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,5608800,5608800
+budget,2025-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3923700,3923700
+budget,2025-11-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2804400,2804400
+budget,2025-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,5258250,5258250
+budget,2025-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3680775,3680775
+budget,2025-11-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2629125,2629125
+budget,2025-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,3154627,3154627
+budget,2025-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,2208234,2208234
+budget,2025-11-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1577337,1577337
+budget,2025-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3699072,-3699072
+budget,2025-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2587728,-2587728
+budget,2025-11-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1849536,-1849536
+budget,2025-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2667600,-2667600
+budget,2025-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1867320,-1867320
+budget,2025-11-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1333800,-1333800
+budget,2025-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2702891,-2702891
+budget,2025-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1892020,-1892020
+budget,2025-11-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1351465,-1351465
+budget,2025-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-11-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-11-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-11-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-11-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-11-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-11-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-11-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-11-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600
+budget,2025-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NO,Norway,4858500,4858500
+budget,2025-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,3394800,3394800
+budget,2025-12-01,3000,"Sales revenue, spare parts",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,2423100,2423100
+budget,2025-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NO,Norway,4551615,4551615
+budget,2025-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,NORDIC,Nordics,3186315,3186315
+budget,2025-12-01,3010,"Sales revenue, service hours",Revenue,Revenue,CC20,Service Operations,ROE,Rest of Europe,2274885,2274885
+budget,2025-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NO,Norway,2730554,2730554
+budget,2025-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,NORDIC,Nordics,1911374,1911374
+budget,2025-12-01,3020,"Sales revenue, lubricants",Revenue,Revenue,CC10,Sales,ROE,Rest of Europe,1365300,1365300
+budget,2025-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NO,Norway,3204240,-3204240
+budget,2025-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,2238912,-2238912
+budget,2025-12-01,4000,"Cost of goods sold, spare parts",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1598064,-1598064
+budget,2025-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NO,Norway,2309112,-2309112
+budget,2025-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,NORDIC,Nordics,1616472,-1616472
+budget,2025-12-01,4010,Cost of service delivery,COGS,Cost of sales,CC20,Service Operations,ROE,Rest of Europe,1154088,-1154088
+budget,2025-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NO,Norway,2339544,-2339544
+budget,2025-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,NORDIC,Nordics,1637669,-1637669
+budget,2025-12-01,4020,"Cost of goods sold, lubricants",COGS,Cost of sales,CC10,Sales,ROE,Rest of Europe,1169792,-1169792
+budget,2025-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC10,Sales,,,1188000,-1188000
+budget,2025-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC20,Service Operations,,,1728000,-1728000
+budget,2025-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC30,Admin,,,702000,-702000
+budget,2025-12-01,5000,Salaries and personnel costs,Opex,Personnel,CC40,IT,,,410400,-410400
+budget,2025-12-01,6300,Rent and premises,Opex,Premises,CC30,Admin,,,445200,-445200
+budget,2025-12-01,6550,Software and licences,Opex,IT and software,CC40,IT,,,318000,-318000
+budget,2025-12-01,6700,External services and consultants,Opex,External services,CC10,Sales,,,127200,-127200
+budget,2025-12-01,6700,External services and consultants,Opex,External services,CC30,Admin,,,159000,-159000
+budget,2025-12-01,6700,External services and consultants,Opex,External services,CC40,IT,,,148400,-148400
+budget,2025-12-01,7140,Travel,Opex,Travel,CC10,Sales,,,190800,-190800
+budget,2025-12-01,7140,Travel,Opex,Travel,CC20,Service Operations,,,275600,-275600

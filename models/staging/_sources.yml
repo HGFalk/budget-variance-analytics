@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: raw
+    description: CSV files written by scripts/generate_finance_data.py
+    config:
+      meta:
+        external_location: "read_csv('data/raw/{name}.csv', header = true, all_varchar = true)"
+    tables:
+      - name: dim_account
+      - name: dim_cost_centre
+      - name: dim_product_line
+      - name: dim_region
+      - name: sales_actuals
+      - name: sales_budget
+      - name: gl_actuals
+      - name: gl_budget

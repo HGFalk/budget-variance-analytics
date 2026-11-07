@@ -1,0 +1,541 @@
+month,region_id,region_name,product_line_id,product_line_name,step_order,step,amount_nok
+2025-01-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,1629132.0
+2025-01-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2212506.0
+2025-01-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,385772.0
+2025-01-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1143324.0
+2025-01-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1548936.0
+2025-01-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,270038.0
+2025-01-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,816660.0
+2025-01-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1106253.0
+2025-01-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,192885.0
+2025-02-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,1725456.0
+2025-02-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2342493.0
+2025-02-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,408539.0
+2025-02-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1210332.0
+2025-02-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1639836.0
+2025-02-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,285977.0
+2025-02-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,862728.0
+2025-02-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1171701.0
+2025-02-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,204273.0
+2025-03-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,1968360.0
+2025-03-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2671551.0
+2025-03-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,465963.0
+2025-03-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1377852.0
+2025-03-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1870722.0
+2025-03-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,326175.0
+2025-03-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,984180.0
+2025-03-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1336230.0
+2025-03-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,232985.0
+2025-04-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,2047932.0
+2025-04-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2779722.0
+2025-04-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,484807.0
+2025-04-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1436484.0
+2025-04-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1946169.0
+2025-04-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,339364.0
+2025-04-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,1026060.0
+2025-04-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1389861.0
+2025-04-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,242403.0
+2025-05-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,2018616.0
+2025-05-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2739726.0
+2025-05-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,477707.0
+2025-05-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1415544.0
+2025-05-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1917081.0
+2025-05-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,334391.0
+2025-05-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,1009308.0
+2025-05-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1369863.0
+2025-05-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,238850.0
+2025-06-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,1880412.0
+2025-06-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2548836.0
+2025-06-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,444418.0
+2025-06-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1315032.0
+2025-06-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1783458.0
+2025-06-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,311089.0
+2025-06-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,938112.0
+2025-06-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1274418.0
+2025-06-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,222205.0
+2025-07-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,1478364.0
+2025-07-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2005254.0
+2025-07-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,349702.0
+2025-07-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1034436.0
+2025-07-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1403496.0
+2025-07-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,244788.0
+2025-07-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,737088.0
+2025-07-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1002627.0
+2025-07-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,174848.0
+2025-08-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,1763148.0
+2025-08-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2388852.0
+2025-08-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,416630.0
+2025-08-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1231272.0
+2025-08-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1672560.0
+2025-08-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,291643.0
+2025-08-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,879480.0
+2025-08-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1194426.0
+2025-08-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,208315.0
+2025-09-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,2010240.0
+2025-09-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2725182.0
+2025-09-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,475190.0
+2025-09-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1407168.0
+2025-09-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1907082.0
+2025-09-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,332634.0
+2025-09-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,1005120.0
+2025-09-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1362591.0
+2025-09-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,237595.0
+2025-10-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,2052120.0
+2025-10-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2784267.0
+2025-10-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,485580.0
+2025-10-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1436484.0
+2025-10-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1948896.0
+2025-10-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,339907.0
+2025-10-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,1026060.0
+2025-10-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1392588.0
+2025-10-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,242787.0
+2025-11-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,1909728.0
+2025-11-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2590650.0
+2025-11-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,451736.0
+2025-11-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1335972.0
+2025-11-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1813455.0
+2025-11-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,316214.0
+2025-11-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,954864.0
+2025-11-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1295325.0
+2025-11-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,225872.0
+2025-12-01,NO,Norway,PARTS,Spare parts,1,Budget gross margin,1654260.0
+2025-12-01,NO,Norway,SERVICE,Service hours,1,Budget gross margin,2242503.0
+2025-12-01,NO,Norway,LUBE,Lubricants and consumables,1,Budget gross margin,391010.0
+2025-12-01,NORDIC,Nordics,PARTS,Spare parts,1,Budget gross margin,1155888.0
+2025-12-01,NORDIC,Nordics,SERVICE,Service hours,1,Budget gross margin,1569843.0
+2025-12-01,NORDIC,Nordics,LUBE,Lubricants and consumables,1,Budget gross margin,273705.0
+2025-12-01,ROE,Rest of Europe,PARTS,Spare parts,1,Budget gross margin,825036.0
+2025-12-01,ROE,Rest of Europe,SERVICE,Service hours,1,Budget gross margin,1120797.0
+2025-12-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,1,Budget gross margin,195508.0
+2025-01-01,NO,Norway,PARTS,Spare parts,2,Volume,-65160.31093873187
+2025-01-01,NO,Norway,SERVICE,Service hours,2,Volume,218287.04164475176
+2025-01-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,-5880.718607948912
+2025-01-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,-104256.49750197098
+2025-01-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,77540.77001709092
+2025-01-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,6467.159145946392
+2025-01-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-47784.2280217367
+2025-01-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,26064.124375492745
+2025-01-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,1726.747759151689
+2025-02-01,NO,Norway,PARTS,Spare parts,2,Volume,-91224.43531422461
+2025-02-01,NO,Norway,SERVICE,Service hours,2,Volume,317330.71427162417
+2025-02-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,75651.13094360144
+2025-02-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,-117288.55968971737
+2025-02-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,79495.57934525287
+2025-02-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,-41279.05439596575
+2025-02-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-73848.35239722945
+2025-02-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,78192.37312647824
+2025-02-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,24288.5080307309
+2025-03-01,NO,Norway,PARTS,Spare parts,2,Volume,-178104.84989920043
+2025-03-01,NO,Norway,SERVICE,Service hours,2,Volume,99695.27573625976
+2025-03-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,-98701.56961973109
+2025-03-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,-95568.4560434734
+2025-03-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,45612.217657112305
+2025-03-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,-17039.4222455632
+2025-03-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-95568.4560434734
+2025-03-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,72327.94514199237
+2025-03-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,-40399.3865744133
+2025-04-01,NO,Norway,PARTS,Spare parts,2,Volume,-243265.16083793232
+2025-04-01,NO,Norway,SERVICE,Service hours,2,Volume,342743.23553772963
+2025-04-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,-61576.49383710162
+2025-04-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,-152040.7255237077
+2025-04-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,222196.66030107567
+2025-04-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,97251.7435579634
+2025-04-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-112944.53896046856
+2025-04-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,63857.10471995723
+2025-04-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,8161.326534457898
+2025-05-01,NO,Norway,PARTS,Spare parts,2,Volume,13032.062187746373
+2025-05-01,NO,Norway,SERVICE,Service hours,2,Volume,72979.54825137969
+2025-05-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,-11565.956491758416
+2025-05-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,-47784.2280217367
+2025-05-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,136185.0498619496
+2025-05-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,-12396.74716532639
+2025-05-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-69504.33166798066
+2025-05-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,20199.696391006877
+2025-05-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,-5603.785900820873
+2025-06-01,NO,Norway,PARTS,Spare parts,2,Volume,-139008.66333596132
+2025-06-01,NO,Norway,SERVICE,Service hours,2,Volume,164203.9835656043
+2025-06-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,-24353.669156017106
+2025-06-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,-56472.26948023428
+2025-06-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,158339.55558111845
+2025-06-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,4772.991952363102
+2025-06-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-43440.20729248791
+2025-06-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,74934.35757954164
+2025-06-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,0.0
+2025-07-01,NO,Norway,PARTS,Spare parts,2,Volume,-134664.64260671253
+2025-07-01,NO,Norway,SERVICE,Service hours,2,Volume,134881.84364317497
+2025-07-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,-3355.755841577957
+2025-07-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,21720.103646243955
+2025-07-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,149217.11204969598
+2025-07-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,9317.926508314193
+2025-07-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-65160.31093873187
+2025-07-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,22806.108828556153
+2025-07-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,20558.078101169904
+2025-08-01,NO,Norway,PARTS,Spare parts,2,Volume,-95568.4560434734
+2025-08-01,NO,Norway,SERVICE,Service hours,2,Volume,172674.82398763945
+2025-08-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,-71708.92834975116
+2025-08-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,-30408.14510474154
+2025-08-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,119243.36901787932
+2025-08-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,-31961.12663057411
+2025-08-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-69504.33166798066
+2025-08-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,78192.37312647824
+2025-08-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,1075.1448533395999
+2025-09-01,NO,Norway,PARTS,Spare parts,2,Volume,-147696.7047944589
+2025-09-01,NO,Norway,SERVICE,Service hours,2,Volume,147262.302721534
+2025-09-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,-11810.306357645151
+2025-09-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,-78192.37312647824
+2025-09-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,196784.13903497023
+2025-09-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,-84219.69735627872
+2025-09-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-73848.35239722945
+2025-09-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,85360.00732973874
+2025-09-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,6939.571023744965
+2025-10-01,NO,Norway,PARTS,Spare parts,2,Volume,-156384.74625295648
+2025-10-01,NO,Norway,SERVICE,Service hours,2,Volume,8470.840422035142
+2025-10-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,15703.636672864393
+2025-10-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,8688.041458497582
+2025-10-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,19548.09328161956
+2025-10-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,28963.761262772307
+2025-10-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-78192.37312647824
+2025-10-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,76889.1669077036
+2025-10-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,-25217.04405160158
+2025-11-01,NO,Norway,PARTS,Spare parts,2,Volume,-143352.6840652101
+2025-11-01,NO,Norway,SERVICE,Service hours,2,Volume,252822.00644227964
+2025-11-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,25966.38288018397
+2025-11-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,8688.041458497582
+2025-11-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,170068.41155009018
+2025-11-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,13699.953048356605
+2025-11-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,4344.020729248791
+2025-11-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,91876.03842361193
+2025-11-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,18440.372379720862
+2025-12-01,NO,Norway,PARTS,Spare parts,2,Volume,-121632.58041896616
+2025-12-01,NO,Norway,SERVICE,Service hours,2,Volume,132927.034315013
+2025-12-01,NO,Norway,LUBE,Lubricants and consumables,2,Volume,-26894.919571164093
+2025-12-01,NORDIC,Nordics,PARTS,Spare parts,2,Volume,-26064.124375492745
+2025-12-01,NORDIC,Nordics,SERVICE,Service hours,2,Volume,32580.155469365935
+2025-12-01,NORDIC,Nordics,LUBE,Lubricants and consumables,2,Volume,21128.232203627533
+2025-12-01,ROE,Rest of Europe,PARTS,Spare parts,2,Volume,-56472.26948023428
+2025-12-01,ROE,Rest of Europe,SERVICE,Service hours,2,Volume,104908.1006113583
+2025-12-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,2,Volume,14481.879106133158
+2025-01-01,NO,Norway,PARTS,Spare parts,3,Mix,2340.310938731869
+2025-01-01,NO,Norway,SERVICE,Service hours,3,Mix,86227.95835524824
+2025-01-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,3496.3113210263377
+2025-01-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,3744.497501970982
+2025-01-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,30630.229982909077
+2025-01-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,-3844.9821084745195
+2025-01-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,1716.2280217367006
+2025-01-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,10295.875624507255
+2025-01-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,-1026.6207174094022
+2025-02-01,NO,Norway,PARTS,Spare parts,3,Mix,3276.435314224611
+2025-02-01,NO,Norway,SERVICE,Service hours,3,Mix,125352.28572837583
+2025-02-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,-44977.51582388212
+2025-02-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,4212.559689717367
+2025-02-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,31402.420654747126
+2025-02-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,24541.965960277365
+2025-02-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,2652.3523972294497
+2025-02-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,30887.62687352176
+2025-02-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,-14440.445076031121
+2025-03-01,NO,Norway,PARTS,Spare parts,3,Mix,6396.8498992004315
+2025-03-01,NO,Norway,SERVICE,Service hours,3,Mix,39381.72426374024
+2025-03-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,58681.86903714075
+2025-03-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,3432.456043473401
+2025-03-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,18017.782342887695
+2025-03-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,10130.58620887041
+2025-03-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,3432.456043473401
+2025-03-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,28571.05485800763
+2025-03-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,24018.970403862753
+2025-04-01,NO,Norway,PARTS,Spare parts,3,Mix,8737.160837932315
+2025-04-01,NO,Norway,SERVICE,Service hours,3,Mix,135390.76446227037
+2025-04-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,36609.59383710163
+2025-04-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,5460.72552370769
+2025-04-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,87772.33969892433
+2025-04-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,-57819.99813172753
+2025-04-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,4056.5389604685624
+2025-04-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,25224.895280042772
+2025-04-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,-4852.22836007098
+2025-05-01,NO,Norway,PARTS,Spare parts,3,Mix,-468.06218774637273
+2025-05-01,NO,Norway,SERVICE,Service hours,3,Mix,28828.45174862031
+2025-05-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,6876.4028104587305
+2025-05-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,1716.2280217367006
+2025-05-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,53795.95013805039
+2025-05-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,7370.347200880541
+2025-05-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,2496.3316679806594
+2025-05-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,7979.303608993123
+2025-05-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,3331.665995948354
+2025-06-01,NO,Norway,PARTS,Spare parts,3,Mix,4992.663335961319
+2025-06-01,NO,Norway,SERVICE,Service hours,3,Mix,64864.016434395686
+2025-06-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,14479.181380138378
+2025-06-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,2028.2694802342812
+2025-06-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,62547.444418881554
+2025-06-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,-2837.7262991645207
+2025-06-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,1560.2072924879103
+2025-06-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,29600.64242045836
+2025-06-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,0.0
+2025-07-01,NO,Norway,PARTS,Spare parts,3,Mix,4836.6426067125285
+2025-07-01,NO,Norway,SERVICE,Service hours,3,Mix,53281.15635682503
+2025-07-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,1995.1247715996772
+2025-07-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,-780.1036462439552
+2025-07-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,58943.88795030402
+2025-07-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,-5539.865042082846
+2025-07-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,2340.310938731869
+2025-07-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,9008.891171443847
+2025-07-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,-12222.547125044188
+2025-08-01,NO,Norway,PARTS,Spare parts,3,Mix,3432.456043473401
+2025-08-01,NO,Norway,SERVICE,Service hours,3,Mix,68210.17601236055
+2025-08-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,42633.73160920769
+2025-08-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,1092.1451047415394
+2025-08-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,47103.63098212068
+2025-08-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,19002.151067217746
+2025-08-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,2496.3316679806594
+2025-08-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,30887.62687352176
+2025-08-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,-639.2150521410838
+2025-09-01,NO,Norway,PARTS,Spare parts,3,Mix,5304.704794458899
+2025-09-01,NO,Norway,SERVICE,Service hours,3,Mix,58171.69727846599
+2025-09-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,7021.682566919033
+2025-09-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,2808.37312647824
+2025-09-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,77733.86096502977
+2025-09-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,50071.88893309413
+2025-09-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,2652.3523972294497
+2025-09-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,33718.99267026126
+2025-09-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,-4125.841734297618
+2025-10-01,NO,Norway,PARTS,Spare parts,3,Mix,5616.74625295648
+2025-10-01,NO,Norway,SERVICE,Service hours,3,Mix,3346.159577964858
+2025-10-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,-9336.41385365251
+2025-10-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,-312.0414584975824
+2025-10-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,7721.90671838044
+2025-10-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,-17220.05433338751
+2025-10-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,2808.37312647824
+2025-10-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,30372.833092296394
+2025-10-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,14992.486785156185
+2025-11-01,NO,Norway,PARTS,Spare parts,3,Mix,5148.684065210109
+2025-11-01,NO,Norway,SERVICE,Service hours,3,Mix,99869.99355772036
+2025-11-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,-15438.007403161466
+2025-11-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,-312.0414584975824
+2025-11-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,67180.58844990982
+2025-11-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,-8145.154635823968
+2025-11-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,-156.0207292487912
+2025-11-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,36292.96157638807
+2025-11-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,-10963.485401330949
+2025-12-01,NO,Norway,PARTS,Spare parts,3,Mix,4368.580418966158
+2025-12-01,NO,Norway,SERVICE,Service hours,3,Mix,52508.96568498699
+2025-12-01,NO,Norway,LUBE,Lubricants and consumables,3,Mix,15990.047698328395
+2025-12-01,NORDIC,Nordics,PARTS,Spare parts,3,Mix,936.1243754927455
+2025-12-01,NORDIC,Nordics,SERVICE,Service hours,3,Mix,12869.844530634065
+2025-12-01,NORDIC,Nordics,LUBE,Lubricants and consumables,3,Mix,-12561.53452752531
+2025-12-01,ROE,Rest of Europe,PARTS,Spare parts,3,Mix,2028.2694802342812
+2025-12-01,ROE,Rest of Europe,SERVICE,Service hours,3,Mix,41440.8993886417
+2025-12-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,3,Mix,-8610.03410613316
+2025-01-01,NO,Norway,PARTS,Spare parts,4,Price,58097.99999999988
+2025-01-01,NO,Norway,SERVICE,Service hours,4,Price,109787.00000000004
+2025-01-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,87149.12654521829
+2025-01-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,86226.99999999991
+2025-01-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,92125.00000000013
+2025-01-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,54001.37985520013
+2025-01-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,72636.99999999999
+2025-01-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,45483.999999999905
+2025-01-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,50398.75136116151
+2025-02-01,NO,Norway,PARTS,Spare parts,4,Price,177105.00000000017
+2025-02-01,NO,Norway,SERVICE,Service hours,4,Price,192012.0000000003
+2025-02-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,109596.47184453504
+2025-02-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,106516.99999999988
+2025-02-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,181089.0000000001
+2025-02-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,54719.74268425066
+2025-02-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,62388.00000000008
+2025-02-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,57811.99999999985
+2025-02-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,28959.61897371228
+2025-03-01,NO,Norway,PARTS,Spare parts,4,Price,90664.00000000001
+2025-03-01,NO,Norway,SERVICE,Service hours,4,Price,118918.00000000025
+2025-03-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,87070.3427927482
+2025-03-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,126284.9999999998
+2025-03-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,119853.00000000019
+2025-03-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,49305.75264767217
+2025-03-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,102888.00000000013
+2025-03-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,109724.00000000015
+2025-03-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,42891.98242331449
+2025-04-01,NO,Norway,PARTS,Spare parts,4,Price,123960.0000000002
+2025-04-01,NO,Norway,SERVICE,Service hours,4,Price,235726.99999999977
+2025-04-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,102554.49999999984
+2025-04-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,57144.99999999984
+2025-04-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,134172.00000000006
+2025-04-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,86497.80809653582
+2025-04-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,55848.99999999994
+2025-04-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,95924.00000000012
+2025-04-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,25765.381825613127
+2025-05-01,NO,Norway,PARTS,Spare parts,4,Price,261065.99999999997
+2025-05-01,NO,Norway,SERVICE,Service hours,4,Price,247158.00000000032
+2025-05-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,90505.75368129999
+2025-05-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,135719.99999999977
+2025-05-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,22144.000000000015
+2025-05-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,41608.11936318574
+2025-05-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,74650.99999999997
+2025-05-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,53793.00000000002
+2025-05-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,61719.99762181287
+2025-06-01,NO,Norway,PARTS,Spare parts,4,Price,259390.00000000023
+2025-06-01,NO,Norway,SERVICE,Service hours,4,Price,100817.9999999998
+2025-06-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,64860.88333209477
+2025-06-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,120048.00000000009
+2025-06-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,189556.9999999999
+2025-06-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,38056.37733285208
+2025-06-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,85718.00000000007
+2025-06-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,136471.00000000003
+2025-06-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,20152.000000000044
+2025-07-01,NO,Norway,PARTS,Spare parts,4,Price,66558.00000000004
+2025-07-01,NO,Norway,SERVICE,Service hours,4,Price,114134.9999999999
+2025-07-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,59933.749513646406
+2025-07-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,118931.00000000019
+2025-07-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,106278.00000000004
+2025-07-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,20339.494212244783
+2025-07-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,69921.99999999997
+2025-07-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,50498.00000000009
+2025-07-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,55169.25000000002
+2025-08-01,NO,Norway,PARTS,Spare parts,4,Price,115507.00000000006
+2025-08-01,NO,Norway,SERVICE,Service hours,4,Price,125127.99999999975
+2025-08-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,96277.26744665306
+2025-08-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,133643.00000000006
+2025-08-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,129200.00000000012
+2025-08-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,24596.233337107973
+2025-08-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,84810.00000000001
+2025-08-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,51185.9999999999
+2025-08-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,47266.75078474265
+2025-09-01,NO,Norway,PARTS,Spare parts,4,Price,84128.0000000004
+2025-09-01,NO,Norway,SERVICE,Service hours,4,Price,205793.00000000023
+2025-09-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,71257.6249999998
+2025-09-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,65668.00000000025
+2025-09-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,165395.9999999999
+2025-09-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,67721.23716764948
+2025-09-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,64941.00000000006
+2025-09-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,135172.00000000015
+2025-09-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,42746.75592127198
+2025-10-01,NO,Norway,PARTS,Spare parts,4,Price,169372.9999999998
+2025-10-01,NO,Norway,SERVICE,Service hours,4,Price,185975.99999999977
+2025-10-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,81135.49508277024
+2025-10-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,147896.99999999977
+2025-10-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,98291.99999999977
+2025-10-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,63258.74136255863
+2025-10-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,122951.00000000004
+2025-10-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,58698.99999999988
+2025-10-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,8361.510528320512
+2025-11-01,NO,Norway,PARTS,Spare parts,4,Price,242417.00000000038
+2025-11-01,NO,Norway,SERVICE,Service hours,4,Price,336091.9999999997
+2025-11-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,83369.75291330977
+2025-11-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,39682.99999999994
+2025-11-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,111558.99999999977
+2025-11-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,60786.88158746737
+2025-11-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,78990.99999999994
+2025-11-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,53543.99999999987
+2025-11-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,58613.4875866304
+2025-12-01,NO,Norway,PARTS,Spare parts,4,Price,159810.0000000001
+2025-12-01,NO,Norway,SERVICE,Service hours,4,Price,71986.00000000026
+2025-12-01,NO,Norway,LUBE,Lubricants and consumables,4,Price,98748.37848612278
+2025-12-01,NORDIC,Nordics,PARTS,Spare parts,4,Price,169844.99999999977
+2025-12-01,NORDIC,Nordics,SERVICE,Service hours,4,Price,104163.99999999991
+2025-12-01,NORDIC,Nordics,LUBE,Lubricants and consumables,4,Price,52286.871087622756
+2025-12-01,ROE,Rest of Europe,PARTS,Spare parts,4,Price,64586.0000000001
+2025-12-01,ROE,Rest of Europe,SERVICE,Service hours,4,Price,93456.99999999994
+2025-12-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,4,Price,17120.874999999924
+2025-01-01,NO,Norway,PARTS,Spare parts,5,Unit cost,21039.999999999913
+2025-01-01,NO,Norway,SERVICE,Service hours,5,Unit cost,-21538.999999999938
+2025-01-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,30788.280741704846
+2025-01-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,8219.999999999887
+2025-01-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,9980.000000000062
+2025-01-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,760.4431073280405
+2025-01-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,-4161.999999999949
+2025-01-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,11857.999999999998
+2025-01-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,-8388.878402903798
+2025-02-01,NO,Norway,PARTS,Spare parts,5,Unit cost,-1997.9999999998681
+2025-02-01,NO,Norway,SERVICE,Service hours,5,Unit cost,54259.000000000146
+2025-02-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,51471.91303574569
+2025-02-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,262.0
+2025-02-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,3983.0000000000296
+2025-02-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,1665.3457514377849
+2025-02-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,428.99999999994543
+2025-02-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,-2975.0000000000437
+2025-02-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,-12140.681928412112
+2025-03-01,NO,Norway,PARTS,Spare parts,5,Unit cost,38667.00000000013
+2025-03-01,NO,Norway,SERVICE,Service hours,5,Unit cost,33917.99999999984
+2025-03-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,27863.357789842154
+2025-03-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,-7194.999999999952
+2025-03-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,-24797.00000000011
+2025-03-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,8240.083389020598
+2025-03-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,43226.00000000006
+2025-03-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,25216.000000000073
+2025-03-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,10795.433747236042
+2025-04-01,NO,Norway,PARTS,Spare parts,5,Unit cost,19589.999999999953
+2025-04-01,NO,Norway,SERVICE,Service hours,5,Unit cost,13699.999999999884
+2025-04-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,-1061.59999999959
+2025-04-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,7789.000000000029
+2025-04-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,-24377.99999999994
+2025-04-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,15322.446477228717
+2025-04-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,15318.99999999996
+2025-04-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,-7293.000000000023
+2025-04-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,22576.52000000015
+2025-05-01,NO,Norway,PARTS,Spare parts,5,Unit cost,-15331.99999999998
+2025-05-01,NO,Norway,SERVICE,Service hours,5,Unit cost,-3000.9999999999673
+2025-05-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,4172.800000000067
+2025-05-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,-42131.00000000016
+2025-05-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,13499.999999999927
+2025-05-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,-40602.71939873979
+2025-05-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,4115.000000000077
+2025-05-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,18383.999999999935
+2025-05-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,-989.8777169404949
+2025-06-01,NO,Norway,PARTS,Spare parts,5,Unit cost,36405.99999999989
+2025-06-01,NO,Norway,SERVICE,Service hours,5,Unit cost,21503.000000000015
+2025-06-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,-10323.395556216044
+2025-06-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,-13566.000000000064
+2025-06-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,12841.000000000038
+2025-06-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,-18493.642986050672
+2025-06-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,-20093.999999999847
+2025-06-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,-20393.99999999996
+2025-06-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,-7039.000000000002
+2025-07-01,NO,Norway,PARTS,Spare parts,5,Unit cost,-35614.00000000026
+2025-07-01,NO,Norway,SERVICE,Service hours,5,Unit cost,42479.00000000007
+2025-07-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,6625.881556331723
+2025-07-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,17723.999999999924
+2025-07-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,-1978.9999999999868
+2025-07-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,8499.444321524057
+2025-07-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,2169.999999999968
+2025-07-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,-20048.000000000062
+2025-07-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,1860.2190238743158
+2025-08-01,NO,Norway,PARTS,Spare parts,5,Unit cost,-13392.999999999978
+2025-08-01,NO,Norway,SERVICE,Service hours,5,Unit cost,6290.000000000022
+2025-08-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,-1755.070706110197
+2025-08-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,-139.99999999987267
+2025-08-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,-8488.999999999942
+2025-08-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,-19430.257773751786
+2025-08-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,-25926.000000000175
+2025-08-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,-4156.00000000002
+2025-08-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,-7363.680585941244
+2025-09-01,NO,Norway,PARTS,Spare parts,5,Unit cost,41638.00000000005
+2025-09-01,NO,Norway,SERVICE,Service hours,5,Unit cost,2652.0000000001537
+2025-09-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,-26465.00120927385
+2025-09-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,-22338.999999999876
+2025-09-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,-4753.999999999905
+2025-09-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,-15830.42874446476
+2025-09-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,-8877.9999999999
+2025-09-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,-18313.00000000009
+2025-09-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,-4162.485210719466
+2025-10-01,NO,Norway,PARTS,Spare parts,5,Unit cost,13099.999999999996
+2025-10-01,NO,Norway,SERVICE,Service hours,5,Unit cost,-9669.000000000093
+2025-10-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,86262.28209801808
+2025-10-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,-10715.99999999994
+2025-10-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,74239.99999999996
+2025-10-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,36262.551708056446
+2025-10-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,-8318.999999999953
+2025-10-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,-7375.0000000000455
+2025-10-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,16175.04673812498
+2025-11-01,NO,Norway,PARTS,Spare parts,5,Unit cost,24435.000000000164
+2025-11-01,NO,Norway,SERVICE,Service hours,5,Unit cost,-41537.99999999997
+2025-11-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,13386.871609667915
+2025-11-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,-58404.999999999956
+2025-11-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,41.000000000025466
+2025-11-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,-7855.679999999933
+2025-11-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,-30036.000000000135
+2025-11-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,-1920.9999999999357
+2025-11-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,13994.625434979538
+2025-12-01,NO,Norway,PARTS,Spare parts,5,Unit cost,3266.999999999901
+2025-12-01,NO,Norway,SERVICE,Service hours,5,Unit cost,890.000000000122
+2025-12-01,NO,Norway,LUBE,Lubricants and consumables,5,Unit cost,31037.493386712496
+2025-12-01,NORDIC,Nordics,PARTS,Spare parts,5,Unit cost,5602.999999999993
+2025-12-01,NORDIC,Nordics,SERVICE,Service hours,5,Unit cost,12344.999999999922
+2025-12-01,NORDIC,Nordics,LUBE,Lubricants and consumables,5,Unit cost,-15611.56876372476
+2025-12-01,ROE,Rest of Europe,PARTS,Spare parts,5,Unit cost,-517.0000000000582
+2025-12-01,ROE,Rest of Europe,SERVICE,Service hours,5,Unit cost,3689.999999999972
+2025-12-01,ROE,Rest of Europe,LUBE,Lubricants and consumables,5,Unit cost,1279.2800000001585

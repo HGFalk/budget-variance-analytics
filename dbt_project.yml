@@ -1,0 +1,19 @@
+name: brightwake_finance
+version: "1.0.0"
+config-version: 2
+profile: brightwake_finance
+
+model-paths: ["models"]
+test-paths: ["tests"]
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  brightwake_finance:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: view
+    marts:
+      # Marts are written as CSV files to output/ for Power BI
+      +materialized: external
+      +format: csv

@@ -1,0 +1,12 @@
+account_id,account_name,account_type,pl_line
+3000,"Sales revenue, spare parts",Revenue,Revenue
+3010,"Sales revenue, service hours",Revenue,Revenue
+3020,"Sales revenue, lubricants",Revenue,Revenue
+4000,"Cost of goods sold, spare parts",COGS,Cost of sales
+4010,Cost of service delivery,COGS,Cost of sales
+4020,"Cost of goods sold, lubricants",COGS,Cost of sales
+5000,Salaries and personnel costs,Opex,Personnel
+6300,Rent and premises,Opex,Premises
+6550,Software and licences,Opex,IT and software
+6700,External services and consultants,Opex,External services
+7140,Travel,Opex,Travel

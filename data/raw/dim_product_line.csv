@@ -1,0 +1,4 @@
+product_line_id,product_line_name,unit,revenue_account,cogs_account
+PARTS,Spare parts,unit,3000,4000
+SERVICE,Service hours,hour,3010,4010
+LUBE,Lubricants and consumables,litre,3020,4020

@@ -1,0 +1,253 @@
+month,product_line,series,purpose,revenue_nok
+2023-01-01,Lubricants,Actual,history,5273340
+2023-01-01,Service hours,Actual,history,8504677
+2023-01-01,Spare parts,Actual,history,9782253
+2023-02-01,Lubricants,Actual,history,5718576
+2023-02-01,Service hours,Actual,history,9715582
+2023-02-01,Spare parts,Actual,history,9787091
+2023-03-01,Lubricants,Actual,history,6518799
+2023-03-01,Service hours,Actual,history,10919177
+2023-03-01,Spare parts,Actual,history,11409989
+2023-04-01,Lubricants,Actual,history,6823958
+2023-04-01,Service hours,Actual,history,11242107
+2023-04-01,Spare parts,Actual,history,12361842
+2023-05-01,Lubricants,Actual,history,6637544
+2023-05-01,Service hours,Actual,history,10985857
+2023-05-01,Spare parts,Actual,history,11703863
+2023-06-01,Lubricants,Actual,history,6209235
+2023-06-01,Service hours,Actual,history,10321410
+2023-06-01,Spare parts,Actual,history,11280488
+2023-07-01,Lubricants,Actual,history,4875977
+2023-07-01,Service hours,Actual,history,7797308
+2023-07-01,Spare parts,Actual,history,8638425
+2023-08-01,Lubricants,Actual,history,5814955
+2023-08-01,Service hours,Actual,history,9608229
+2023-08-01,Spare parts,Actual,history,10269381
+2023-09-01,Lubricants,Actual,history,6670903
+2023-09-01,Service hours,Actual,history,10981196
+2023-09-01,Spare parts,Actual,history,11710325
+2023-10-01,Lubricants,Actual,history,6674962
+2023-10-01,Service hours,Actual,history,11188315
+2023-10-01,Spare parts,Actual,history,11490135
+2023-11-01,Lubricants,Actual,history,6166648
+2023-11-01,Service hours,Actual,history,10084333
+2023-11-01,Spare parts,Actual,history,11158249
+2023-12-01,Lubricants,Actual,history,5438981
+2023-12-01,Service hours,Actual,history,8969238
+2023-12-01,Spare parts,Actual,history,9390294
+2024-01-01,Lubricants,Actual,history,5654719
+2024-01-01,Service hours,Actual,history,9000805
+2024-01-01,Spare parts,Actual,history,10290910
+2024-02-01,Lubricants,Actual,history,6107263
+2024-02-01,Service hours,Actual,history,10446408
+2024-02-01,Spare parts,Actual,history,10721912
+2024-03-01,Lubricants,Actual,history,6658456
+2024-03-01,Service hours,Actual,history,11143603
+2024-03-01,Spare parts,Actual,history,12597704
+2024-04-01,Lubricants,Actual,history,7304072
+2024-04-01,Service hours,Actual,history,12137825
+2024-04-01,Spare parts,Actual,history,12622111
+2024-05-01,Lubricants,Actual,history,6916021
+2024-05-01,Service hours,Actual,history,11650924
+2024-05-01,Spare parts,Actual,history,12387024
+2024-06-01,Lubricants,Actual,history,6773527
+2024-06-01,Service hours,Actual,history,11023026
+2024-06-01,Spare parts,Actual,history,11414844
+2024-07-01,Lubricants,Actual,history,5221215
+2024-07-01,Service hours,Actual,history,8635239
+2024-07-01,Spare parts,Actual,history,9399316
+2024-08-01,Lubricants,Actual,history,6155390
+2024-08-01,Service hours,Actual,history,10034742
+2024-08-01,Spare parts,Actual,history,10877092
+2024-09-01,Lubricants,Actual,history,7105714
+2024-09-01,Service hours,Actual,history,11622829
+2024-09-01,Spare parts,Actual,history,12760833
+2024-10-01,Lubricants,Actual,history,7039443
+2024-10-01,Service hours,Actual,history,12612817
+2024-10-01,Spare parts,Actual,history,13031082
+2024-11-01,Lubricants,Actual,history,6758503
+2024-11-01,Service hours,Actual,history,11177363
+2024-11-01,Spare parts,Actual,history,11905612
+2024-12-01,Lubricants,Actual,history,5787039
+2024-12-01,Service hours,Actual,history,9228219
+2024-12-01,Spare parts,Actual,history,10042109
+2025-01-01,Lubricants,Actual,history,6124838
+2025-01-01,Service hours,Actual,history,11038801
+2025-01-01,Spare parts,Actual,history,10143062
+2025-02-01,Lubricants,Actual,history,6635924
+2025-02-01,Service hours,Actual,history,12237068
+2025-02-01,Spare parts,Actual,history,10702610
+2025-03-01,Lubricants,Actual,history,6895944
+2025-03-01,Service hours,Actual,history,12896340
+2025-03-01,Spare parts,Actual,history,11992537
+2025-04-01,Lubricants,Actual,history,7787204
+2025-04-01,Service hours,Actual,history,14659408
+2025-04-01,Spare parts,Actual,history,12044954
+2025-05-01,Lubricants,Actual,history,7449250
+2025-05-01,Service hours,Actual,history,13204885
+2025-05-01,Spare parts,Actual,history,13226537
+2025-06-01,Lubricants,Actual,history,6895326
+2025-06-01,Service hours,Actual,history,12932256
+2025-06-01,Spare parts,Actual,history,11928756
+2025-07-01,Lubricants,Actual,history,5583082
+2025-07-01,Service hours,Actual,history,10093691
+2025-07-01,Spare parts,Actual,history,9295911
+2025-08-01,Lubricants,Actual,history,6278503
+2025-08-01,Service hours,Actual,history,12021264
+2025-08-01,Spare parts,Actual,history,11157960
+2025-09-01,Lubricants,Actual,history,7229994
+2025-09-01,Service hours,Actual,history,13889991
+2025-09-01,Spare parts,Actual,history,12354837
+2025-10-01,Lubricants,Actual,history,7667949
+2025-10-01,Service hours,Actual,history,13073467
+2025-10-01,Spare parts,Actual,history,13060021
+2025-11-01,Lubricants,Actual,history,7307496
+2025-11-01,Service hours,Actual,history,13526895
+2025-11-01,Spare parts,Actual,history,12328991
+2025-12-01,Lubricants,Actual,history,6200061
+2025-12-01,Service hours,Actual,history,11048097
+2025-12-01,Spare parts,Actual,history,10492541
+2025-01-01,Lubricants,Budget,backtest,5926739
+2025-01-01,Service hours,Budget,backtest,9879975
+2025-01-01,Spare parts,Budget,backtest,10541100
+2025-02-01,Lubricants,Budget,backtest,6276552
+2025-02-01,Service hours,Budget,backtest,10461150
+2025-02-01,Spare parts,Budget,backtest,11156100
+2025-03-01,Lubricants,Budget,backtest,7158784
+2025-03-01,Service hours,Budget,backtest,11931615
+2025-03-01,Spare parts,Budget,backtest,12718200
+2025-04-01,Lubricants,Budget,backtest,7448264
+2025-04-01,Service hours,Budget,backtest,12413160
+2025-04-01,Spare parts,Budget,backtest,13247100
+2025-05-01,Lubricants,Budget,backtest,7339133
+2025-05-01,Service hours,Budget,backtest,12232350
+2025-05-01,Spare parts,Budget,backtest,13050300
+2025-06-01,Lubricants,Budget,backtest,6827699
+2025-06-01,Service hours,Budget,backtest,11379960
+2025-06-01,Spare parts,Budget,backtest,12140100
+2025-07-01,Lubricants,Budget,backtest,5372548
+2025-07-01,Service hours,Budget,backtest,8953785
+2025-07-01,Spare parts,Budget,backtest,9544800
+2025-08-01,Lubricants,Budget,backtest,6400858
+2025-08-01,Service hours,Budget,backtest,10667790
+2025-08-01,Spare parts,Budget,backtest,11377500
+2025-09-01,Lubricants,Budget,backtest,7300526
+2025-09-01,Service hours,Budget,backtest,12167775
+2025-09-01,Spare parts,Budget,backtest,12988800
+2025-10-01,Lubricants,Budget,backtest,7460120
+2025-10-01,Service hours,Budget,backtest,12433455
+2025-10-01,Spare parts,Budget,backtest,13259400
+2025-11-01,Lubricants,Budget,backtest,6940198
+2025-11-01,Service hours,Budget,backtest,11568150
+2025-11-01,Spare parts,Budget,backtest,12336900
+2025-12-01,Lubricants,Budget,backtest,6007228
+2025-12-01,Service hours,Budget,backtest,10012815
+2025-12-01,Spare parts,Budget,backtest,10676400
+2025-01-01,Lubricants,seasonal_naive,backtest,5654719
+2025-01-01,Lubricants,seasonal_trend,backtest,6016369
+2025-02-01,Lubricants,seasonal_naive,backtest,6107263
+2025-02-01,Lubricants,seasonal_trend,backtest,6497856
+2025-03-01,Lubricants,seasonal_naive,backtest,6658456
+2025-03-01,Lubricants,seasonal_trend,backtest,7084301
+2025-04-01,Lubricants,seasonal_naive,backtest,7304072
+2025-04-01,Lubricants,seasonal_trend,backtest,7771207
+2025-05-01,Lubricants,seasonal_naive,backtest,6916021
+2025-05-01,Lubricants,seasonal_trend,backtest,7358338
+2025-06-01,Lubricants,seasonal_naive,backtest,6773527
+2025-06-01,Lubricants,seasonal_trend,backtest,7206731
+2025-07-01,Lubricants,seasonal_naive,backtest,5221215
+2025-07-01,Lubricants,seasonal_trend,backtest,5555140
+2025-08-01,Lubricants,seasonal_naive,backtest,6155390
+2025-08-01,Lubricants,seasonal_trend,backtest,6549061
+2025-09-01,Lubricants,seasonal_naive,backtest,7105714
+2025-09-01,Lubricants,seasonal_trend,backtest,7560163
+2025-10-01,Lubricants,seasonal_naive,backtest,7039443
+2025-10-01,Lubricants,seasonal_trend,backtest,7489654
+2025-11-01,Lubricants,seasonal_naive,backtest,6758503
+2025-11-01,Lubricants,seasonal_trend,backtest,7190746
+2025-12-01,Lubricants,seasonal_naive,backtest,5787039
+2025-12-01,Lubricants,seasonal_trend,backtest,6157152
+2025-01-01,Service hours,seasonal_naive,backtest,9000805
+2025-01-01,Service hours,seasonal_trend,backtest,9628928
+2025-02-01,Service hours,seasonal_naive,backtest,10446408
+2025-02-01,Service hours,seasonal_trend,backtest,11175412
+2025-03-01,Service hours,seasonal_naive,backtest,11143603
+2025-03-01,Service hours,seasonal_trend,backtest,11921261
+2025-04-01,Service hours,seasonal_naive,backtest,12137825
+2025-04-01,Service hours,seasonal_trend,backtest,12984865
+2025-05-01,Service hours,seasonal_naive,backtest,11650924
+2025-05-01,Service hours,seasonal_trend,backtest,12463986
+2025-06-01,Service hours,seasonal_naive,backtest,11023026
+2025-06-01,Service hours,seasonal_trend,backtest,11792270
+2025-07-01,Service hours,seasonal_naive,backtest,8635239
+2025-07-01,Service hours,seasonal_trend,backtest,9237851
+2025-08-01,Service hours,seasonal_naive,backtest,10034742
+2025-08-01,Service hours,seasonal_trend,backtest,10735018
+2025-09-01,Service hours,seasonal_naive,backtest,11622829
+2025-09-01,Service hours,seasonal_trend,backtest,12433930
+2025-10-01,Service hours,seasonal_naive,backtest,12612817
+2025-10-01,Service hours,seasonal_trend,backtest,13493004
+2025-11-01,Service hours,seasonal_naive,backtest,11177363
+2025-11-01,Service hours,seasonal_trend,backtest,11957377
+2025-12-01,Service hours,seasonal_naive,backtest,9228219
+2025-12-01,Service hours,seasonal_trend,backtest,9872212
+2025-01-01,Spare parts,seasonal_naive,backtest,10290910
+2025-01-01,Spare parts,seasonal_trend,backtest,11014421
+2025-02-01,Spare parts,seasonal_naive,backtest,10721912
+2025-02-01,Spare parts,seasonal_trend,backtest,11475725
+2025-03-01,Spare parts,seasonal_naive,backtest,12597704
+2025-03-01,Spare parts,seasonal_trend,backtest,13483396
+2025-04-01,Spare parts,seasonal_naive,backtest,12622111
+2025-04-01,Spare parts,seasonal_trend,backtest,13509519
+2025-05-01,Spare parts,seasonal_naive,backtest,12387024
+2025-05-01,Spare parts,seasonal_trend,backtest,13257904
+2025-06-01,Spare parts,seasonal_naive,backtest,11414844
+2025-06-01,Spare parts,seasonal_trend,backtest,12217374
+2025-07-01,Spare parts,seasonal_naive,backtest,9399316
+2025-07-01,Spare parts,seasonal_trend,backtest,10060143
+2025-08-01,Spare parts,seasonal_naive,backtest,10877092
+2025-08-01,Spare parts,seasonal_trend,backtest,11641815
+2025-09-01,Spare parts,seasonal_naive,backtest,12760833
+2025-09-01,Spare parts,seasonal_trend,backtest,13657994
+2025-10-01,Spare parts,seasonal_naive,backtest,13031082
+2025-10-01,Spare parts,seasonal_trend,backtest,13947243
+2025-11-01,Spare parts,seasonal_naive,backtest,11905612
+2025-11-01,Spare parts,seasonal_trend,backtest,12742646
+2025-12-01,Spare parts,seasonal_naive,backtest,10042109
+2025-12-01,Spare parts,seasonal_trend,backtest,10748128
+2026-01-01,Lubricants,seasonal_trend,forecast,6486425
+2026-02-01,Lubricants,seasonal_trend,forecast,7027684
+2026-03-01,Lubricants,seasonal_trend,forecast,7303055
+2026-04-01,Lubricants,seasonal_trend,forecast,8246931
+2026-05-01,Lubricants,seasonal_trend,forecast,7889026
+2026-06-01,Lubricants,seasonal_trend,forecast,7302400
+2026-07-01,Lubricants,seasonal_trend,forecast,5912686
+2026-08-01,Lubricants,seasonal_trend,forecast,6649162
+2026-09-01,Lubricants,seasonal_trend,forecast,7656826
+2026-10-01,Lubricants,seasonal_trend,forecast,8120636
+2026-11-01,Lubricants,seasonal_trend,forecast,7738903
+2026-12-01,Lubricants,seasonal_trend,forecast,6566089
+2026-01-01,Service hours,seasonal_trend,forecast,12917714
+2026-02-01,Service hours,seasonal_trend,forecast,14319938
+2026-03-01,Service hours,seasonal_trend,forecast,15091425
+2026-04-01,Service hours,seasonal_trend,forecast,17154584
+2026-05-01,Service hours,seasonal_trend,forecast,15452487
+2026-06-01,Service hours,seasonal_trend,forecast,15133454
+2026-07-01,Service hours,seasonal_trend,forecast,11811737
+2026-08-01,Service hours,seasonal_trend,forecast,14067402
+2026-09-01,Service hours,seasonal_trend,forecast,16254205
+2026-10-01,Service hours,seasonal_trend,forecast,15298701
+2026-11-01,Service hours,seasonal_trend,forecast,15829306
+2026-12-01,Service hours,seasonal_trend,forecast,12928592
+2026-01-01,Spare parts,seasonal_trend,forecast,10192889
+2026-02-01,Spare parts,seasonal_trend,forecast,10755186
+2026-03-01,Spare parts,seasonal_trend,forecast,12051450
+2026-04-01,Spare parts,seasonal_trend,forecast,12104124
+2026-05-01,Spare parts,seasonal_trend,forecast,13291512
+2026-06-01,Spare parts,seasonal_trend,forecast,11987356
+2026-07-01,Spare parts,seasonal_trend,forecast,9341577
+2026-08-01,Spare parts,seasonal_trend,forecast,11212773
+2026-09-01,Spare parts,seasonal_trend,forecast,12415530
+2026-10-01,Spare parts,seasonal_trend,forecast,13124178
+2026-11-01,Spare parts,seasonal_trend,forecast,12389557
+2026-12-01,Spare parts,seasonal_trend,forecast,10544085

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Brightwake Variance"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "86e70833-f0f8-4ef0-a56f-3688a475b4ca"
+  }
+}

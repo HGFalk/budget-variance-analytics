@@ -1,0 +1,142 @@
+table fct_budget_vs_actual
+	lineageTag: c8f2fd79-2574-4f01-8eb7-44c398fa30a6
+
+	column month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 17bc1443-4afb-47e3-81ff-fc01a2399f6e
+		summarizeBy: none
+		sourceColumn: month
+
+		variation Variation
+			isDefault
+			relationship: e35bc7ca-816d-4344-9033-f058388b3587
+			defaultHierarchy: LocalDateTable_30e8bed2-13a7-49c6-95a2-07d54a6f5ea3.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column account_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 676d0bd3-7bf4-4aa0-b51d-d788ddb720d6
+		summarizeBy: sum
+		sourceColumn: account_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column account_name
+		dataType: string
+		lineageTag: 7fec5274-864b-4487-89a9-1519f8688264
+		summarizeBy: none
+		sourceColumn: account_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column account_type
+		dataType: string
+		lineageTag: 43b9ffa3-f640-40fc-9761-2b2ac191a756
+		summarizeBy: none
+		sourceColumn: account_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column pl_line
+		dataType: string
+		lineageTag: 635d3284-d8b6-480b-90ed-7582b4c95a18
+		summarizeBy: none
+		sourceColumn: pl_line
+
+		annotation SummarizationSetBy = Automatic
+
+	column cost_centre_id
+		dataType: string
+		lineageTag: 6cc8c19c-8a39-43a0-802d-05f7e9c87deb
+		summarizeBy: none
+		sourceColumn: cost_centre_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column region_id
+		dataType: string
+		lineageTag: 79df2d0b-2b38-4ee5-90e7-2583f4eb3726
+		summarizeBy: none
+		sourceColumn: region_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column actual_nok
+		dataType: int64
+		formatString: 0
+		lineageTag: 6595b21a-9d65-4b45-9f55-fbf9323b0d19
+		summarizeBy: sum
+		sourceColumn: actual_nok
+
+		annotation SummarizationSetBy = Automatic
+
+	column budget_nok
+		dataType: int64
+		formatString: 0
+		lineageTag: 961b77f8-41de-44b2-9c79-8e4d8002f6fb
+		summarizeBy: sum
+		sourceColumn: budget_nok
+
+		annotation SummarizationSetBy = Automatic
+
+	column variance_ebit_nok
+		dataType: int64
+		formatString: 0
+		lineageTag: 9fc5e369-63fc-446d-9416-bc0e5f97fc37
+		summarizeBy: sum
+		sourceColumn: variance_ebit_nok
+
+		annotation SummarizationSetBy = Automatic
+
+	column variance_nok
+		dataType: int64
+		formatString: 0
+		lineageTag: 808b96fd-a246-4ff1-acec-9241feb3620c
+		summarizeBy: sum
+		sourceColumn: variance_nok
+
+		annotation SummarizationSetBy = Automatic
+
+	column variance_pct
+		dataType: double
+		lineageTag: 3489bd01-b689-4ac1-a7ae-8e4cd2350352
+		summarizeBy: sum
+		sourceColumn: variance_pct
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column is_favourable
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 85d255cf-841a-4dc4-8a4c-fc3e39f86e0c
+		summarizeBy: none
+		sourceColumn: is_favourable
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fct_budget_vs_actual = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(OutputFolder & "fct_budget_vs_actual.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Headers, {
+				        {"month", type date}, {"account_id", Int64.Type}, {"account_name", type text},
+				        {"account_type", type text}, {"pl_line", type text}, {"cost_centre_id", type text},
+				        {"region_id", type text}, {"actual_nok", Int64.Type}, {"budget_nok", Int64.Type},
+				        {"variance_ebit_nok", Int64.Type}, {"variance_nok", Int64.Type},
+				        {"variance_pct", type number}, {"is_favourable", type logical}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

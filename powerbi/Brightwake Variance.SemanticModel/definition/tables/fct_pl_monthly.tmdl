@@ -1,0 +1,129 @@
+table fct_pl_monthly
+	lineageTag: d7b5fda4-6687-4815-b75a-720f1cd365e8
+
+	column scenario
+		dataType: string
+		lineageTag: 2dbf5a89-e8ec-4c83-b45d-64cbdc8a6c8f
+		summarizeBy: none
+		sourceColumn: scenario
+
+		annotation SummarizationSetBy = Automatic
+
+	column month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: b3135df0-5768-446c-b7b0-5a09d907cf6a
+		summarizeBy: none
+		sourceColumn: month
+
+		variation Variation
+			isDefault
+			relationship: d61232ee-385c-4dde-ba33-0aa314fef166
+			defaultHierarchy: LocalDateTable_46b860be-9b38-4750-ab6d-a6cfcfd4a940.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column account_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 358638d1-8858-4d25-aea6-db2fbbba945a
+		summarizeBy: sum
+		sourceColumn: account_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column account_name
+		dataType: string
+		lineageTag: 4d28433a-497f-43dd-8345-83ed7006a1fc
+		summarizeBy: none
+		sourceColumn: account_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column account_type
+		dataType: string
+		lineageTag: 269e318f-178d-485c-b750-9379d602a734
+		summarizeBy: none
+		sourceColumn: account_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column pl_line
+		dataType: string
+		lineageTag: b9af4464-02f3-41b4-864d-4a50d56f2384
+		summarizeBy: none
+		sourceColumn: pl_line
+
+		annotation SummarizationSetBy = Automatic
+
+	column cost_centre_id
+		dataType: string
+		lineageTag: a151c9c6-b575-479e-bf29-1753ca6ad001
+		summarizeBy: none
+		sourceColumn: cost_centre_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column cost_centre_name
+		dataType: string
+		lineageTag: 24b4da25-7f38-4ff1-91d2-0041cb0868c1
+		summarizeBy: none
+		sourceColumn: cost_centre_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column region_id
+		dataType: string
+		lineageTag: 0df0f246-7397-4647-aa79-317f64d7f39c
+		summarizeBy: none
+		sourceColumn: region_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column region_name
+		dataType: string
+		lineageTag: 9ac5c499-72c7-43d5-bfcc-79436c70dba6
+		summarizeBy: none
+		sourceColumn: region_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column pl_amount_nok
+		dataType: int64
+		formatString: 0
+		lineageTag: fc152ff3-a81b-4519-9fe1-6054eb5568d7
+		summarizeBy: sum
+		sourceColumn: pl_amount_nok
+
+		annotation SummarizationSetBy = Automatic
+
+	column ebit_amount_nok
+		dataType: int64
+		formatString: 0
+		lineageTag: ddcf97e6-7bc4-41e8-8934-f7d5aaa45072
+		summarizeBy: sum
+		sourceColumn: ebit_amount_nok
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fct_pl_monthly = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(OutputFolder & "fct_pl_monthly.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Headers, {
+				        {"scenario", type text}, {"month", type date}, {"account_id", Int64.Type},
+				        {"account_name", type text}, {"account_type", type text}, {"pl_line", type text},
+				        {"cost_centre_id", type text}, {"cost_centre_name", type text},
+				        {"region_id", type text}, {"region_name", type text},
+				        {"pl_amount_nok", Int64.Type}, {"ebit_amount_nok", Int64.Type}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

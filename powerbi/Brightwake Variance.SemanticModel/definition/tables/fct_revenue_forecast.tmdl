@@ -1,0 +1,68 @@
+table fct_revenue_forecast
+	lineageTag: fa2354d2-da30-480b-8ba8-bb1c83a6cd5a
+
+	column month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 408a95dd-6f49-46c5-b7b1-83911038811d
+		summarizeBy: none
+		sourceColumn: month
+
+		variation Variation
+			isDefault
+			relationship: ee696b0c-2333-4a0a-ae0d-f5bc198a1d0c
+			defaultHierarchy: LocalDateTable_905e6fac-556a-48b4-9131-b85a2a98b5ea.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column product_line
+		dataType: string
+		lineageTag: 56236c0f-5169-41dd-9068-361977090cf1
+		summarizeBy: none
+		sourceColumn: product_line
+
+		annotation SummarizationSetBy = Automatic
+
+	column series
+		dataType: string
+		lineageTag: 69266e92-9eea-4277-b60b-378fa4191314
+		summarizeBy: none
+		sourceColumn: series
+
+		annotation SummarizationSetBy = Automatic
+
+	column purpose
+		dataType: string
+		lineageTag: f5eb06bd-b590-4901-8182-b484e9114c17
+		summarizeBy: none
+		sourceColumn: purpose
+
+		annotation SummarizationSetBy = Automatic
+
+	column revenue_nok
+		dataType: int64
+		formatString: 0
+		lineageTag: 9840a435-1b02-4a2d-8515-716882bd4547
+		summarizeBy: sum
+		sourceColumn: revenue_nok
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fct_revenue_forecast = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(OutputFolder & "fct_revenue_forecast.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Headers, {
+				        {"month", type date}, {"product_line", type text}, {"series", type text},
+				        {"purpose", type text}, {"revenue_nok", Int64.Type}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,95 @@
+table fct_margin_bridge
+	lineageTag: 2dea6fad-dc98-4746-84b4-36b0ac59e3d8
+
+	column month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 8d58c54a-7a08-4291-bc56-ac29352ac2e1
+		summarizeBy: none
+		sourceColumn: month
+
+		variation Variation
+			isDefault
+			relationship: f373b42f-a259-4103-94c9-20edd18c0eb9
+			defaultHierarchy: LocalDateTable_b6f1cae8-deca-459f-b708-1d0ced999b80.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column region_id
+		dataType: string
+		lineageTag: c5db8e11-412e-41ea-b877-d4942b838c7a
+		summarizeBy: none
+		sourceColumn: region_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column region_name
+		dataType: string
+		lineageTag: 6cf63eda-232e-427a-a0f9-6e423e97480f
+		summarizeBy: none
+		sourceColumn: region_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column product_line_id
+		dataType: string
+		lineageTag: fca34cdf-f220-4ab7-ab19-e1d8e8ef45a7
+		summarizeBy: none
+		sourceColumn: product_line_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column product_line_name
+		dataType: string
+		lineageTag: 5d56f12f-292b-42a7-90b3-a2a82e569597
+		summarizeBy: none
+		sourceColumn: product_line_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column step_order
+		dataType: int64
+		formatString: 0
+		lineageTag: 8a731ba1-1c8e-4666-97e1-f645838bdfc2
+		summarizeBy: sum
+		sourceColumn: step_order
+
+		annotation SummarizationSetBy = Automatic
+
+	column step
+		dataType: string
+		lineageTag: 8c814b60-59f3-445f-a9a3-dd6ce73c27f8
+		summarizeBy: none
+		sourceColumn: step
+
+		annotation SummarizationSetBy = Automatic
+
+	column amount_nok
+		dataType: double
+		lineageTag: b354a2be-03bd-4fa8-a399-f01fffc37da5
+		summarizeBy: sum
+		sourceColumn: amount_nok
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition fct_margin_bridge = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(OutputFolder & "fct_margin_bridge.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Headers, {
+				        {"month", type date}, {"region_id", type text}, {"region_name", type text},
+				        {"product_line_id", type text}, {"product_line_name", type text},
+				        {"step_order", Int64.Type}, {"step", type text}, {"amount_nok", type number}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

@@ -11,13 +11,14 @@ annotation __PBI_TimeIntelligenceEnabled = 1
 
 annotation PBI_QueryOrder = ["OutputFolder","fct_pl_monthly","fct_budget_vs_actual","fct_margin_bridge","fct_revenue_forecast"]
 
-annotation PBI_ProTooling = ["DevMode"]
+annotation PBI_ProTooling = ["DevMode","DaxQueryView_Desktop"]
 
 ref table fct_pl_monthly
 ref table fct_budget_vs_actual
 ref table fct_margin_bridge
 ref table fct_revenue_forecast
 ref table dim_date
+ref table _Measures
 
 ref cultureInfo en-GB
 

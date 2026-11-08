@@ -1,0 +1,148 @@
+table _Measures
+	lineageTag: c9b6240f-15cf-436b-a71d-b3bba76a2d9a
+
+	measure 'Revenue Actual' = ```
+			
+			        CALCULATE (
+			            SUM ( fct_pl_monthly[pl_amount_nok] ),
+			            fct_pl_monthly[scenario] = "actual",
+			            fct_pl_monthly[account_type] = "Revenue"
+			        )
+			```
+		formatString: 0
+		lineageTag: d14a087d-984f-48af-85e5-48240716801d
+
+	measure 'Revenue Budget' = ```
+			
+			        CALCULATE (
+			            SUM ( fct_pl_monthly[pl_amount_nok] ),
+			            fct_pl_monthly[scenario] = "budget",
+			            fct_pl_monthly[account_type] = "Revenue"
+			        )
+			```
+		formatString: 0
+		lineageTag: 1d0bc538-3142-4057-aaa6-975bcec580e3
+
+	measure 'COGS Actual' = ```
+			
+			        CALCULATE (
+			            SUM ( fct_pl_monthly[pl_amount_nok] ),
+			            fct_pl_monthly[scenario] = "actual",
+			            fct_pl_monthly[account_type] = "COGS"
+			        )
+			```
+		formatString: 0
+		lineageTag: efd93d9c-719a-4d6b-9731-da37e4c1f6a9
+
+	measure 'COGS Budget' = ```
+			
+			        CALCULATE (
+			            SUM ( fct_pl_monthly[pl_amount_nok] ),
+			            fct_pl_monthly[scenario] = "budget",
+			            fct_pl_monthly[account_type] = "COGS"
+			        )
+			```
+		formatString: 0
+		lineageTag: dc138361-e067-44df-8a7a-d9606f100eed
+
+	measure 'Opex Actual' = ```
+			
+			        CALCULATE (
+			            SUM ( fct_pl_monthly[pl_amount_nok] ),
+			            fct_pl_monthly[scenario] = "actual",
+			            fct_pl_monthly[account_type] = "Opex"
+			        )
+			```
+		formatString: 0
+		lineageTag: 68e92044-c84d-46a7-aafa-71d3ab1eb9e6
+
+	measure 'Opex Budget' = ```
+			
+			        CALCULATE (
+			            SUM ( fct_pl_monthly[pl_amount_nok] ),
+			            fct_pl_monthly[scenario] = "budget",
+			            fct_pl_monthly[account_type] = "Opex"
+			        )
+			```
+		formatString: 0
+		lineageTag: d3920bb9-2699-45f6-ac9c-92ddb0c0fccc
+
+	measure 'Gross Margin Actual' = [Revenue Actual] - [COGS Actual]
+		formatString: 0
+		lineageTag: 460287da-bed4-427e-ad88-178fd1d60251
+
+	measure 'Gross Margin Budget' = [Revenue Budget] - [COGS Budget]
+		formatString: 0
+		lineageTag: a9032e44-e792-4650-8d6b-2c594122d0d3
+
+	measure 'GM % Actual' = DIVIDE ( [Gross Margin Actual], [Revenue Actual] )
+		formatString: 0.00\ %;-0.00\ %;0.00\ %
+		lineageTag: 5ee24762-03bc-4515-8036-cb80e5aa5acc
+
+	measure 'GM % Budget' = DIVIDE ( [Gross Margin Budget], [Revenue Budget] )
+		formatString: 0.00\ %;-0.00\ %;0.00\ %
+		lineageTag: d269a1e1-2e8d-4cc2-a0fc-de891b4344a7
+
+	measure 'EBIT Actual' = [Gross Margin Actual] - [Opex Actual]
+		formatString: 0
+		lineageTag: 5bfa9972-fce4-4f77-aa64-6db69350ffe8
+
+	measure 'EBIT Budget' = [Gross Margin Budget] - [Opex Budget]
+		formatString: 0
+		lineageTag: 7e95c227-a748-4e00-b9f5-18c00d7e69b9
+
+	measure 'Revenue vs Budget' = ```
+			
+			        SUMX (
+			            VALUES ( dim_date[Year Month] ),
+			            IF ( NOT ISBLANK ( [Revenue Budget] ), [Revenue Actual] - [Revenue Budget] )
+			        )
+			```
+		formatString: 0
+		lineageTag: f60cb836-69a8-402d-9c77-8eb0b7a8df83
+
+	measure 'Opex vs Budget' = ```
+			
+			        SUMX (
+			            VALUES ( dim_date[Year Month] ),
+			            IF ( NOT ISBLANK ( [Opex Budget] ), [Opex Budget] - [Opex Actual] )
+			        )
+			```
+		formatString: 0
+		lineageTag: e739841c-36d9-46c3-af38-7fc34f6dbfa4
+
+	measure 'EBIT vs Budget' = ```
+			
+			        SUMX (
+			            VALUES ( dim_date[Year Month] ),
+			            IF ( NOT ISBLANK ( [EBIT Budget] ), [EBIT Actual] - [EBIT Budget] )
+			        )
+			```
+		formatString: 0
+		lineageTag: df2cee9a-af09-4e3e-8261-5af3d2631ce0
+
+	measure 'EBIT vs Budget %' = DIVIDE ( [EBIT vs Budget], [EBIT Budget] )
+		formatString: 0.00\ %;-0.00\ %;0.00\ %
+		lineageTag: ccc2c335-50e1-4800-9af9-b0fc60c6feb3
+
+	measure 'Bridge Amount' = SUM ( fct_margin_bridge[amount_nok] )
+		lineageTag: c827470f-c65b-4b82-b13c-d13287ac0e90
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Value
+		isHidden
+		formatString: 0
+		lineageTag: cea96eb1-a37a-4248-a44a-a84f06d6363d
+		summarizeBy: sum
+		isNameInferred
+		sourceColumn: [Value]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition _Measures = calculated
+		mode: import
+		source = { BLANK() }
+
+	annotation PBI_Id = 9fa3b0f7a7954130b7c5060d200ed2e6
+

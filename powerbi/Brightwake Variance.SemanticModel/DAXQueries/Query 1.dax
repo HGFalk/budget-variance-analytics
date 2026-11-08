@@ -1,0 +1,72 @@
+DEFINE
+    MEASURE _Measures[Revenue Actual] =
+        CALCULATE (
+            SUM ( fct_pl_monthly[pl_amount_nok] ),
+            fct_pl_monthly[scenario] = "actual",
+            fct_pl_monthly[account_type] = "Revenue"
+        )
+    MEASURE _Measures[Revenue Budget] =
+        CALCULATE (
+            SUM ( fct_pl_monthly[pl_amount_nok] ),
+            fct_pl_monthly[scenario] = "budget",
+            fct_pl_monthly[account_type] = "Revenue"
+        )
+    MEASURE _Measures[COGS Actual] =
+        CALCULATE (
+            SUM ( fct_pl_monthly[pl_amount_nok] ),
+            fct_pl_monthly[scenario] = "actual",
+            fct_pl_monthly[account_type] = "COGS"
+        )
+    MEASURE _Measures[COGS Budget] =
+        CALCULATE (
+            SUM ( fct_pl_monthly[pl_amount_nok] ),
+            fct_pl_monthly[scenario] = "budget",
+            fct_pl_monthly[account_type] = "COGS"
+        )
+    MEASURE _Measures[Opex Actual] =
+        CALCULATE (
+            SUM ( fct_pl_monthly[pl_amount_nok] ),
+            fct_pl_monthly[scenario] = "actual",
+            fct_pl_monthly[account_type] = "Opex"
+        )
+    MEASURE _Measures[Opex Budget] =
+        CALCULATE (
+            SUM ( fct_pl_monthly[pl_amount_nok] ),
+            fct_pl_monthly[scenario] = "budget",
+            fct_pl_monthly[account_type] = "Opex"
+        )
+    MEASURE _Measures[Gross Margin Actual] = [Revenue Actual] - [COGS Actual]
+    MEASURE _Measures[Gross Margin Budget] = [Revenue Budget] - [COGS Budget]
+    MEASURE _Measures[GM % Actual] = DIVIDE ( [Gross Margin Actual], [Revenue Actual] )
+    MEASURE _Measures[GM % Budget] = DIVIDE ( [Gross Margin Budget], [Revenue Budget] )
+    MEASURE _Measures[EBIT Actual] = [Gross Margin Actual] - [Opex Actual]
+    MEASURE _Measures[EBIT Budget] = [Gross Margin Budget] - [Opex Budget]
+    MEASURE _Measures[Revenue vs Budget] =
+        SUMX (
+            VALUES ( dim_date[Year Month] ),
+            IF ( NOT ISBLANK ( [Revenue Budget] ), [Revenue Actual] - [Revenue Budget] )
+        )
+    MEASURE _Measures[Opex vs Budget] =
+        SUMX (
+            VALUES ( dim_date[Year Month] ),
+            IF ( NOT ISBLANK ( [Opex Budget] ), [Opex Budget] - [Opex Actual] )
+        )
+    MEASURE _Measures[EBIT vs Budget] =
+        SUMX (
+            VALUES ( dim_date[Year Month] ),
+            IF ( NOT ISBLANK ( [EBIT Budget] ), [EBIT Actual] - [EBIT Budget] )
+        )
+    MEASURE _Measures[EBIT vs Budget %] = DIVIDE ( [EBIT vs Budget], [EBIT Budget] )
+    MEASURE _Measures[Bridge Amount] = SUM ( fct_margin_bridge[amount_nok] )
+
+EVALUATE
+SUMMARIZECOLUMNS (
+    dim_date[Year],
+    "Revenue Actual", [Revenue Actual],
+    "Revenue Budget", [Revenue Budget],
+    "GM % Actual", [GM % Actual],
+    "EBIT Actual", [EBIT Actual],
+    "EBIT Budget", [EBIT Budget],
+    "EBIT vs Budget", [EBIT vs Budget],
+    "Opex vs Budget", [Opex vs Budget]
+)

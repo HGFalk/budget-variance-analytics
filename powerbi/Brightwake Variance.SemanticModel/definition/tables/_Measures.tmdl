@@ -76,7 +76,7 @@ table _Measures
 		lineageTag: a9032e44-e792-4650-8d6b-2c594122d0d3
 
 	measure 'GM % Actual' = DIVIDE ( [Gross Margin Actual], [Revenue Actual] )
-		formatString: 0.00\ %;-0.00\ %;0.00\ %
+		formatString: 0.0\ %;-0.0\ %;0.0\ %
 		lineageTag: 5ee24762-03bc-4515-8036-cb80e5aa5acc
 
 	measure 'GM % Budget' = DIVIDE ( [Gross Margin Budget], [Revenue Budget] )

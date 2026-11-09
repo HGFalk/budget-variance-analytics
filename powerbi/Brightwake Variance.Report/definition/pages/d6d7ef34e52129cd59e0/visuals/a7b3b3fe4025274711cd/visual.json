@@ -4,10 +4,10 @@
   "position": {
     "x": 1132.6049979104821,
     "y": 135.0413730812555,
-    "z": 3,
+    "z": 3000,
     "height": 280,
     "width": 280.49744730985731,
-    "tabOrder": 3
+    "tabOrder": 3000
   },
   "visual": {
     "visualType": "cardVisual",
@@ -156,23 +156,5 @@
       ]
     },
     "drillFilterOtherVisuals": true
-  },
-  "filterConfig": {
-    "filters": [
-      {
-        "name": "3aaf3b5a9884600cc40e",
-        "field": {
-          "Measure": {
-            "Expression": {
-              "SourceRef": {
-                "Entity": "_Measures"
-              }
-            },
-            "Property": "EBIT vs Budget"
-          }
-        },
-        "type": "Advanced"
-      }
-    ]
   }
 }

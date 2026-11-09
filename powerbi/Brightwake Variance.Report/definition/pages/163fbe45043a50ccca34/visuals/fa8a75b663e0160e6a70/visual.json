@@ -1,0 +1,68 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "fa8a75b663e0160e6a70",
+  "position": {
+    "x": 61.528472313129988,
+    "y": 669.57455164288524,
+    "z": 1001,
+    "height": 246.11388925251995,
+    "width": 832.444037177641,
+    "tabOrder": 1001
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "IT is the only cost centre over budget:",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontSize": "18pt"
+                    }
+                  },
+                  {
+                    "value": " 12.2M against 10.5M, 1.7M over (+16%). Sales, Service Operations and Admin each came in 0.1 to 0.2M under.",
+                    "textStyle": {
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "indent": 1
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": " ",
+                    "textStyle": {
+                      "fontSize": "18pt"
+                    }
+                  },
+                  {
+                    "value": "Next step:",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontSize": "18pt"
+                    }
+                  },
+                  {
+                    "value": " review IT spend by account (salaries, software licences, consultants) to find the cause before setting the 2026 budget.",
+                    "textStyle": {
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "indent": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

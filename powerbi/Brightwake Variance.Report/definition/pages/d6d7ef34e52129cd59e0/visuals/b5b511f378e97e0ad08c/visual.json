@@ -4,10 +4,10 @@
   "position": {
     "x": 98.799644885173961,
     "y": 477.53161694500744,
-    "z": 4,
+    "z": 4000,
     "height": 603.08949898658273,
     "width": 992.11310072195511,
-    "tabOrder": 4
+    "tabOrder": 4000
   },
   "visual": {
     "visualType": "lineChart",
@@ -212,51 +212,5 @@
       ]
     },
     "drillFilterOtherVisuals": true
-  },
-  "filterConfig": {
-    "filters": [
-      {
-        "name": "f65bb882c80e50446e85",
-        "field": {
-          "Column": {
-            "Expression": {
-              "SourceRef": {
-                "Entity": "dim_date"
-              }
-            },
-            "Property": "Month"
-          }
-        },
-        "type": "Categorical"
-      },
-      {
-        "name": "c99af9e6b334e07003eb",
-        "field": {
-          "Measure": {
-            "Expression": {
-              "SourceRef": {
-                "Entity": "_Measures"
-              }
-            },
-            "Property": "EBIT Actual"
-          }
-        },
-        "type": "Advanced"
-      },
-      {
-        "name": "b13f952dd08dec03b776",
-        "field": {
-          "Measure": {
-            "Expression": {
-              "SourceRef": {
-                "Entity": "_Measures"
-              }
-            },
-            "Property": "EBIT Budget"
-          }
-        },
-        "type": "Advanced"
-      }
-    ]
   }
 }

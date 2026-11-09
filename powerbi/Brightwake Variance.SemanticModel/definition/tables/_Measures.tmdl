@@ -53,7 +53,7 @@ table _Measures
 			            fct_pl_monthly[account_type] = "Opex"
 			        )
 			```
-		formatString: 0
+		formatString: #,0
 		lineageTag: 68e92044-c84d-46a7-aafa-71d3ab1eb9e6
 
 	measure 'Opex Budget' = ```
@@ -64,7 +64,7 @@ table _Measures
 			            fct_pl_monthly[account_type] = "Opex"
 			        )
 			```
-		formatString: 0
+		formatString: #,0
 		lineageTag: d3920bb9-2699-45f6-ac9c-92ddb0c0fccc
 
 	measure 'Gross Margin Actual' = [Revenue Actual] - [COGS Actual]
@@ -101,14 +101,14 @@ table _Measures
 		formatString: 0
 		lineageTag: f60cb836-69a8-402d-9c77-8eb0b7a8df83
 
-	measure 'Opex vs Budget' = ```
+	measure 'Under (+) / over (−) budget' = ```
 			
 			        SUMX (
 			            VALUES ( dim_date[Year Month] ),
 			            IF ( NOT ISBLANK ( [Opex Budget] ), [Opex Budget] - [Opex Actual] )
 			        )
 			```
-		formatString: 0
+		formatString: #,0
 		lineageTag: e739841c-36d9-46c3-af38-7fc34f6dbfa4
 
 	measure 'EBIT vs Budget' = ```

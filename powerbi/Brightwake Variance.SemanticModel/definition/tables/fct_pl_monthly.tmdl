@@ -61,11 +61,11 @@ table fct_pl_monthly
 
 		annotation SummarizationSetBy = Automatic
 
-	column cost_centre_name
+	column 'Cost centre'
 		dataType: string
 		lineageTag: 24b4da25-7f38-4ff1-91d2-0041cb0868c1
 		summarizeBy: none
-		sourceColumn: cost_centre_name
+		sourceColumn: Cost centre
 
 		annotation SummarizationSetBy = Automatic
 
@@ -114,9 +114,10 @@ table fct_pl_monthly
 				        {"account_name", type text}, {"account_type", type text}, {"pl_line", type text},
 				        {"cost_centre_id", type text}, {"cost_centre_name", type text},
 				        {"region_id", type text}, {"region_name", type text},
-				        {"pl_amount_nok", Int64.Type}, {"ebit_amount_nok", Int64.Type}}, "en-US")
+				        {"pl_amount_nok", Int64.Type}, {"ebit_amount_nok", Int64.Type}}, "en-US"),
+				    #"Renamed Columns" = Table.RenameColumns(Typed,{{"cost_centre_name", "Cost centre"}})
 				in
-				    Typed
+				    #"Renamed Columns"
 
 	annotation PBI_NavigationStepName = Navigation
 

@@ -4,10 +4,10 @@
   "position": {
     "x": 431.42506574649474,
     "y": 135.0413730812555,
-    "z": 1,
+    "z": 1000,
     "height": 280,
     "width": 280,
-    "tabOrder": 1
+    "tabOrder": 1000
   },
   "visual": {
     "visualType": "cardVisual",
@@ -77,23 +77,5 @@
       ]
     },
     "drillFilterOtherVisuals": true
-  },
-  "filterConfig": {
-    "filters": [
-      {
-        "name": "46ee148c905208e69727",
-        "field": {
-          "Measure": {
-            "Expression": {
-              "SourceRef": {
-                "Entity": "_Measures"
-              }
-            },
-            "Property": "EBIT Actual"
-          }
-        },
-        "type": "Advanced"
-      }
-    ]
   }
 }

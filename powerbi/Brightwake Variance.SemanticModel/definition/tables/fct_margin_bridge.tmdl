@@ -58,6 +58,9 @@ table fct_margin_bridge
 		lineageTag: 8c814b60-59f3-445f-a9a3-dd6ce73c27f8
 		summarizeBy: none
 		sourceColumn: step
+		sortByColumn: step_order
+
+		changedProperty = SortByColumn
 
 		annotation SummarizationSetBy = Automatic
 

@@ -1,0 +1,111 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "88f340af0b444c20da56",
+  "position": {
+    "x": 1243.2370729153031,
+    "y": 177.34677313784528,
+    "z": 1,
+    "height": 727.48370205524282,
+    "width": 676.81319544442988,
+    "tabOrder": 1
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "How to read it",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontFamily": "Arial",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "indent": 1
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": " Budget gross margin was 126.3M; actual was 140.2M.",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "indent": 1
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": " • Price added 10.6M, about 75% of the gain.",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "indent": 1
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": " • Mix added 1.9M: more service hours, which earn about 50% margin vs 35% on spare parts.",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "indent": 1
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": " • Volume added only 1.1M net. Spare parts volume fell 6%, costing 3.0M, offset by service hours.",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "indent": 1
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": " • Unit cost was close to plan (+0.3M).",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "indent": 1
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Axis starts at 120M so the drivers are visible.",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "indent": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
